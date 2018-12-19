@@ -86,7 +86,7 @@ In this class students are encouraged to collaborate on homework assignments, bu
 
 
 ####  Academic Misconduct
-Section 420 of the Student Conduct Code describes academic misconduct as including but not limited to plagiarism, cheating, multiple submissions, or facilitating othersâ misconduct. Possible sanctions for academic misconduct range from an oral reprimand to expulsion from the university.
+Section 420 of the Student Conduct Code describes academic misconduct as including but not limited to plagiarism, cheating, multiple submissions, or facilitating others' misconduct. Possible sanctions for academic misconduct range from an oral reprimand to expulsion from the university.
 
 #### Disabilities Policy
 
