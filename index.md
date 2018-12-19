@@ -1,5 +1,3 @@
-## STAT 534 : Spatial Statistics
-
 ### Tentative Class Schedule
 
 An updated course schedule will be maintained on the course website.
