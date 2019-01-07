@@ -1,11 +1,15 @@
-### Tentative Class Schedule
+### Class Schedule
 
-An updated course schedule will be maintained on the course website.
+
 
 #### Introduction: Git, R Studio, Spatial Data Structures, and Data Viz
 - Week of January 7: *First day of class on Thursday*
-- Week of January 14
-
+    - Thursday January 10: Lecture 1 - Course Overview
+___    
+- Tuesday January 15:
+    - Quiz 1 due: [Quiz 1 link](https://classroom.github.com/a/E7XYvjdt)
+- Thursday January 17:
+___
 #### Point-Referenced Data
 - Week of January 21
 - Week of January 28
