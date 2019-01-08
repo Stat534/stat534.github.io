@@ -8,8 +8,9 @@
 
 - Tuesday January 15:
     - Quiz 1 due: [Quiz 1 link](https://classroom.github.com/a/E7XYvjdt)
+    - [Lecture 2 - Git Tutorial](https://stat534.github.io/Lecture2/)
 - Thursday January 17:
-
+    - Lecture 3 - Plotting Spatial Data
 
 #### Point-Referenced Data
 - Week of January 21
