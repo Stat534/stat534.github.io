@@ -3,8 +3,8 @@
 
 
 #### Introduction: Git, R Studio, Spatial Data Structures, and Data Viz
-- Week of January 7: *First day of class on Thursday*
-    - Thursday January 10: Lecture 1 - Course Overview
+- Thursday January 10: 
+    - [Lecture 1 - Course Overview](https://stat534.github.io/Lecture1/)
 
 - Tuesday January 15:
     - Quiz 1 due: [Quiz 1 link](https://classroom.github.com/a/E7XYvjdt)
