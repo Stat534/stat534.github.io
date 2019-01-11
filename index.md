@@ -63,6 +63,8 @@ At the end of the course students will be able to:
 
 - Hierarchical Modeling and Analysis for Spatial Data, Second Edition, by Bannerjee, Carlin, and Gelfand. While the second edition is preferred, the first edition will suffice.
 
+- [Geocomputation with R: mapping overview](https://geocompr.robinlovelace.net/adv-map.html)(*optional*) is a freely available book that provides good context on spatial data structure and visualization in R.
+
 ## Additional Resources
 Analysis, data visualization, and version control procedures will be implemented with:
 
