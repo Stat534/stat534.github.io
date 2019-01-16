@@ -16,7 +16,7 @@
 - Tuesday January 22:
     - Quiz 2 due: [Quiz 2 link](https://classroom.github.com/a/TuTt9k9Q)
 - Tuesday January 24:
-    - HW 1 due: [HW 1 link] (https://classroom.github.com/a/2ZlRo1Kd)
+    - HW 1 due: [HW 1 link](https://classroom.github.com/a/2ZlRo1Kd)
 - Week of January 28
 - Week of February 4
 - Week of February 11
