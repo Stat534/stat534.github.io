@@ -10,13 +10,13 @@
     - Quiz 1 due: [Quiz 1 link](https://classroom.github.com/a/E7XYvjdt)
     - [Lecture 2 - Git Tutorial](https://stat534.github.io/Lecture2/)
 - Thursday January 17:
-    - Lecture 3 - Plotting Spatial Data
+    - Lecture 3 - Intro to Spatial Data and Distance Calculations
 
 #### Point-Referenced Data
 - Tuesday January 22:
     - Quiz 2 due: [Quiz 2 link](https://classroom.github.com/a/TuTt9k9Q)
 - Tuesday January 24:
-    - HW 1 due: 
+    - HW 1 due: [HW 1 link] (https://classroom.github.com/a/2ZlRo1Kd)
 - Week of January 28
 - Week of February 4
 - Week of February 11
