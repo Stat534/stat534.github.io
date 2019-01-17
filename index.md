@@ -10,7 +10,7 @@
     - Quiz 1 due: [Quiz 1 link](https://classroom.github.com/a/E7XYvjdt)
     - [Lecture 2 - Git Tutorial](https://stat534.github.io/Lecture2/)
 - Thursday January 17:
-    - Lecture 3 - Intro to Spatial Data and Distance Calculations
+    - [Lecture 3 - Intro to Spatial Data and Distance Calculations](https://stat534.github.io/Lecture3/)
 
 #### Point-Referenced Data
 - Tuesday January 22:
