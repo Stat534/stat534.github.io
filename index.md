@@ -14,6 +14,7 @@
 
 #### Point-Referenced Data
 - Tuesday January 22:
+    - [Lecture 4 - Point Level Models](https://stat534.github.io/Lecture4/)
     - Quiz 2 due: [Quiz 2 link](https://classroom.github.com/a/TuTt9k9Q)
 - Tuesday January 24:
     - HW 1 due: [HW 1 link](https://classroom.github.com/a/2ZlRo1Kd)
