@@ -25,7 +25,7 @@
     - Quiz 3 due: [Quiz 3 link](https://classroom.github.com/a/O1ab-EVx)
 - Thursday January 31:
     - Lecture 7
-    - HW 2 due:
+    - HW 2 due: [HW 2 link](https://classroom.github.com/a/GEhiBzmf)
 
 - Week of February 4
 - Week of February 11
