@@ -19,14 +19,14 @@
 - Tuesday January 24:
     - [Lecture 5 - Variograms](https://stat534.github.io/Lecture5/)
     - HW 1 due: [HW 1 link](https://classroom.github.com/a/2ZlRo1Kd)
----
+
 - Tuesday January 29:
     - Lecture 6 - EDA
     - Quiz 3 due: [Quiz 3 link](https://classroom.github.com/a/O1ab-EVx)
 - Thursday January 31:
     - Lecture 7
     - HW 2 due:
----
+
 - Week of February 4
 - Week of February 11
 - Week of February 18
