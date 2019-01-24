@@ -17,7 +17,7 @@
     - [Lecture 4 - Point Level Models](https://stat534.github.io/Lecture4/)
     - Quiz 2 due: [Quiz 2 link](https://classroom.github.com/a/TuTt9k9Q)
 - Tuesday January 24:
-    -[Lecture 5 - Variograms](https://stat534.github.io/Lecture5/)
+    - [Lecture 5 - Variograms](https://stat534.github.io/Lecture5/)
     - HW 1 due: [HW 1 link](https://classroom.github.com/a/2ZlRo1Kd)
 - Week of January 28
 - Week of February 4
