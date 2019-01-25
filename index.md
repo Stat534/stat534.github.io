@@ -21,7 +21,7 @@
     - HW 1 due: [HW 1 link](https://classroom.github.com/a/2ZlRo1Kd)
 
 - Tuesday January 29:
-    - Lecture 6 - EDA
+    - [Lecture 6 - EDA](https://stat534.github.io/Lecture6/)
     - Quiz 3 due: [Quiz 3 link](https://classroom.github.com/a/O1ab-EVx)
 - Thursday January 31:
     - Lecture 7
