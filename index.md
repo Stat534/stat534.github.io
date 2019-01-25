@@ -24,10 +24,15 @@
     - [Lecture 6 - EDA](https://stat534.github.io/Lecture6/)
     - Quiz 3 due: [Quiz 3 link](https://classroom.github.com/a/O1ab-EVx)
 - Thursday January 31:
-    - Lecture 7
+    - Lecture 7 - Model Fitting
     - HW 2 due: [HW 2 link](https://classroom.github.com/a/GEhiBzmf)
 
-- Week of February 4
+- Tuesday February 5:
+    - Lecture 8 -
+    - Quiz 4 due:
+- Thursday February 7:
+    - Lecture 9 - 
+    - HW 3 due:
 - Week of February 11
 - Week of February 18
 
