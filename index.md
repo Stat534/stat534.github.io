@@ -24,7 +24,7 @@
     - [Lecture 6 - EDA](https://stat534.github.io/Lecture6/)
     - Quiz 3 due: [Quiz 3 link](https://classroom.github.com/a/O1ab-EVx)
 - Thursday January 31:
-    - Lecture 7 - Model Simulation
+    - [Lecture 7 - EDA and Model Simulation](https://stat534.github.io/Lecture7/)
     - HW 2 due: [HW 2 link](https://classroom.github.com/a/GEhiBzmf)
 
 - Tuesday February 5:
