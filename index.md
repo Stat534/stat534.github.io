@@ -7,7 +7,7 @@
     - [Lecture 1 - Course Overview](https://stat534.github.io/Lecture1/)
 
 - Tuesday January 15:
-    - Quiz 1 due: [Quiz 1 link](https://classroom.github.com/a/E7XYvjdt)
+    - Quiz 1 due: [Quiz 1 link](https://stat534.github.io/Quiz1/) [Quiz 1 download](https://classroom.github.com/a/E7XYvjdt)
     - [Lecture 2 - Git Tutorial](https://stat534.github.io/Lecture2/)
 - Thursday January 17:
     - [Lecture 3 - Intro to Spatial Data and Distance Calculations](https://stat534.github.io/Lecture3/)
@@ -15,21 +15,21 @@
 #### Point-Referenced Data
 - Tuesday January 22:
     - [Lecture 4 - Point Level Models](https://stat534.github.io/Lecture4/)
-    - Quiz 2 due: [Quiz 2 link](https://classroom.github.com/a/TuTt9k9Q)
+    - Quiz 2 due: [Quiz 2 link](https://stat534.github.io/Quiz2/) [Quiz 2 download](https://classroom.github.com/a/TuTt9k9Q)
 - Tuesday January 24:
     - [Lecture 5 - Variograms](https://stat534.github.io/Lecture5/)
-    - HW 1 due: [HW 1 link](https://classroom.github.com/a/2ZlRo1Kd)
+    - HW 1 due: [HW 1 link](https://stat534.github.io/HW1/) [HW 1 download](https://classroom.github.com/a/2ZlRo1Kd)
 
 - Tuesday January 29:
     - [Lecture 6 - EDA](https://stat534.github.io/Lecture6/)
-    - Quiz 3 due: [Quiz 3 link](https://classroom.github.com/a/O1ab-EVx)
+    - Quiz 3 due: [Quiz 3 link](https://stat534.github.io/Quiz3/) [Quiz 3 download](https://classroom.github.com/a/O1ab-EVx)
 - Thursday January 31:
     - [Lecture 7 - EDA and Model Simulation](https://stat534.github.io/Lecture7/)
-    - HW 2 due: [HW 2 link](https://classroom.github.com/a/GEhiBzmf)
+    - HW 2 due: [HW 2 link](https://stat534.github.io/HW2/)[HW 2 download](https://classroom.github.com/a/GEhiBzmf)
 
 - Tuesday February 5:
     - Lecture 8 -
-    - Quiz 4 due: [Quiz 4 link](https://classroom.github.com/a/KGRdSMJw)
+    - Quiz 4 due: [Quiz 4 link](https://stat534.github.io/Quiz4/) [Quiz 4 download](https://classroom.github.com/a/KGRdSMJw)
 - Thursday February 7:
     - Lecture 9 - 
     - HW 3 due:
