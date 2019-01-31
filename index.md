@@ -25,11 +25,11 @@
     - Quiz 3 due: [link](https://stat534.github.io/Quiz3/) [download](https://classroom.github.com/a/O1ab-EVx)
 - Thursday January 31:
     - [Lecture 7 - EDA and Model Simulation](https://stat534.github.io/Lecture7/)
-    - HW 2 due: [link](https://stat534.github.io/HW2/)[download](https://classroom.github.com/a/GEhiBzmf)
+    - HW 2 due: [link](https://stat534.github.io/HW2/) [download](https://classroom.github.com/a/GEhiBzmf)
 
 - Tuesday February 5:
     - Lecture 8 -
-    - Quiz 4 due: [link](https://stat534.github.io/Quiz4/) [download](https://classroom.github.com/a/KGRdSMJw)
+    - Quiz 4 due: [link](https://stat534.github.io/quiz4/) [download](https://classroom.github.com/a/KGRdSMJw)
 - Thursday February 7:
     - Lecture 9 - 
     - HW 3 due:
