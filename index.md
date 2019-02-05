@@ -28,7 +28,7 @@
     - HW 2 due: [link](https://stat534.github.io/HW2/) [download](https://classroom.github.com/a/GEhiBzmf)
 
 - Tuesday February 5:
-    - Lecture 8 -
+    - [Lecture 8 - EDA and Model Fitting](https://stat534.github.io/Lecture8/)
     - Quiz 4 due: [link](https://stat534.github.io/quiz4/) [download](https://classroom.github.com/a/KGRdSMJw)
 - Thursday February 7:
     - Lecture 9 - 
