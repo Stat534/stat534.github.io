@@ -35,7 +35,7 @@
     - HW 3 due: [link](https://stat534.github.io/HW3/) [download](https://classroom.github.com/a/AS1PLMKi)
 - Tuesday February 12:
     - Lecture 10
-    - Quiz 5 due:
+    - Quiz 5 due: [link](https://stat534.github.io/Quiz5/) [download](https://classroom.github.com/a/JA3uVg7Y)
 - Thursday February 14:
     - Lecture 11
     - HW 4 due:
