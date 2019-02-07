@@ -31,9 +31,14 @@
     - [Lecture 8 - EDA and Model Fitting](https://stat534.github.io/Lecture8/)
     - Quiz 4 due: [link](https://stat534.github.io/quiz4/) [download](https://classroom.github.com/a/KGRdSMJw)
 - Thursday February 7:
-    - Lecture 9 - 
+    - [Lecture 9 - Model Fitting, cont...](https://stat534.github.io/Lecture9/)
     - HW 3 due: [link](https://stat534.github.io/HW3/) [download](https://classroom.github.com/a/AS1PLMKi)
-- Week of February 11
+- Tuesday February 12:
+    - Lecture 10
+    - Quiz 5 due:
+- Thursday February 14:
+    - Lecture 11
+    - HW 4 due:
 - Week of February 18
 
 #### Areal Data
