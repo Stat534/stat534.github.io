@@ -34,7 +34,7 @@
     - [Lecture 9 - Model Fitting, cont...](https://stat534.github.io/Lecture9/)
     - HW 3 due: [link](https://stat534.github.io/HW3/) [download](https://classroom.github.com/a/AS1PLMKi)
 - Tuesday February 12:
-    - Lecture 10
+    - [Lecture 10 - Parameter Estimation](https://stat534.github.io/Lecture10/)
     - Quiz 5 due: [link](https://stat534.github.io/Quiz5/) [download](https://classroom.github.com/a/JA3uVg7Y)
 - Thursday February 14:
     - Lecture 11
