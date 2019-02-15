@@ -42,21 +42,40 @@
 - Tuesday February 19:
     - [Lecture 12 - Bayesian Model Fitting Demos](https://stat534.github.io/Lecture12/)
     - Quiz 6 due: [link](https://stat534.github.io/Quiz6/) [download](https://classroom.github.com/a/5i9dCbLg)
-- Thursday Februay 21:
-    - Lecture 13
-    - HW 5 due: [link](https://stat534.github.io/HW5/) [download]()
-
+- Thursday February 21:
+    - Lecture 13 - General Correlation Functions & Deformation
+    - HW 5 due: [link](https://stat534.github.io/HW5/) [download](https://classroom.github.com/a/O7hFPdaL)
+- Tuesday February 26:
+    - Lecture 14 - Spatial GLMs
+    - Quiz 7 due:
+- Thursday February 28:
+    - Lecture 15 - Spatial Prediction and Model Selection
+    - HW 6 due:
 #### Areal Data
-- Week of February 25
-- Week of March 4
-
+- Tuesday March 5:
+    - Lecture 16 - Intro to areal data and areal data viz
+    - Quiz 8 due:
+- Thursday March 7:
+    - Lecture 17 - Exploratory approaches for areal data and Markov random fields
+    - HW 7 due:
+- Tuesday March 12:
+    - Lecture 18 - CAR and SAR models 
+    - Quiz 9 due:
+- Thursday March 14:
+    - Lecture 19 - Peer Review Day
+    - HW 10 due:
+- Tuesday March 19: *spring break*
+- Thursday March 21: *spring break*    
 #### Midterm Project
-- Week of March 11
-
+- Tuesday March 26: Project Presentations
+- Thursday March 28: Project Presentations
+- Sunday March 31: Written Project Summary Due
 #### Areal Data Continued..
-- Week of March 25
-- Week of April 1
-
+- Tuesday April 2:
+    - Lecture 20 - Areal Data Models
+    - Quiz 10 due:
+- Thursday April 4:
+    - Lecture 21 - Areal Data Models
 #### Point Process Data
 - Week of April 8
 - Week of April 15
