@@ -44,7 +44,7 @@
     - Quiz 6 due: [link](https://stat534.github.io/Quiz6/) [download](https://classroom.github.com/a/5i9dCbLg)
 - Thursday Februay 21:
     - Lecture 13
-    - HW 5 due:
+    - HW 5 due: [link](https://stat534.github.io/HW5/) [download]()
 
 #### Areal Data
 - Week of February 25
