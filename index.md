@@ -39,7 +39,12 @@
 - Thursday February 14:
     - [Lecture 11 - Likelihood Based Parameter Estimation](https://stat534.github.io/Lecture11/)
     - HW 4 due: [link](https://stat534.github.io/HW4/) [download](https://classroom.github.com/a/LIC2hx7P)
-- Week of February 18
+- Tuesday February 19:
+    - Lecture 12 - Bayesian Model Fitting Demos
+    - Quiz 6 due: [link](https://stat534.github.io/Quiz6/)[download](https://classroom.github.com/a/5i9dCbLg)
+- Thursday Februay 21:
+    - Lecture 13
+    - HW 5 due:
 
 #### Areal Data
 - Week of February 25
