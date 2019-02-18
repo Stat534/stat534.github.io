@@ -43,7 +43,7 @@
     - [Lecture 12 - Bayesian Model Fitting Demos](https://stat534.github.io/Lecture12/)
     - Quiz 6 due: [link](https://stat534.github.io/Quiz6/) [download](https://classroom.github.com/a/5i9dCbLg)
 - Thursday February 21:
-    - Lecture 13 - General Correlation Functions & Deformation
+    - [Lecture 13 - General Correlation Functions & Anisotropy](https://stat534.github.io/Lecture13/)
     - HW 5 due: [link](https://stat534.github.io/HW5/) [download](https://classroom.github.com/a/O7hFPdaL)
 - Tuesday February 26:
     - Lecture 14 - Spatial GLMs
