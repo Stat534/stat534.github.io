@@ -47,7 +47,7 @@
     - HW 5 due: [link](https://stat534.github.io/HW5/) [download](https://classroom.github.com/a/O7hFPdaL)
 - Tuesday February 26:
     - Lecture 14 - Spatial GLMs
-    - Quiz 7 due:
+    - Quiz 7 due: [link](https://stat534.github.io/Quiz7/) [download](https://classroom.github.com/a/jgvyb2WL)
 - Thursday February 28:
     - Lecture 15 - Spatial Prediction and Model Selection
     - HW 6 due:
