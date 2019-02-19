@@ -50,7 +50,7 @@
     - Quiz 7 due: [link](https://stat534.github.io/Quiz7/) [download](https://classroom.github.com/a/jgvyb2WL)
 - Thursday February 28:
     - Lecture 15 - Spatial Prediction and Model Selection
-    - HW 6 due:
+    - HW 6 due: [link](https://stat534.github.io/HW6/) [download](https://classroom.github.com/a/Eb14rohM)
 #### Areal Data
 - Tuesday March 5:
     - Lecture 16 - Intro to areal data and areal data viz
