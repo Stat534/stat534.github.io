@@ -49,7 +49,7 @@
     - [Lecture 14 - Spatial GLMs](https://stat534.github.io/Lecture14/)
     - Quiz 7 due: [link](https://stat534.github.io/Quiz7/) [download](https://classroom.github.com/a/jgvyb2WL)
 - Thursday February 28:
-    - Lecture 15 - Spatial Prediction and Model Selection
+    - [Lecture 15 - Spatial Prediction and Model Selection](https://stat534.github.io/Lecture15/)
     - HW 6 due: [link](https://stat534.github.io/HW6/) [download](https://classroom.github.com/a/Eb14rohM)
 #### Areal Data
 - Tuesday March 5:
