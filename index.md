@@ -69,7 +69,7 @@
 #### Midterm Project
 - Tuesday March 26: Project Presentations
 - Thursday March 28: Project Presentations
-- Sunday March 31: Written Project Summary Due
+- Sunday March 31: Written Project Summary Due [Project Rubric](https://stat534.github.io/MidtermProject/ProjectRubric)
 #### Areal Data Continued..
 - Tuesday April 2:
     - Lecture 20 - Areal Data Models
