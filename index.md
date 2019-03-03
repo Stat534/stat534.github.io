@@ -53,7 +53,7 @@
     - HW 6 due: [link](https://stat534.github.io/HW6/) [download](https://classroom.github.com/a/Eb14rohM)
 #### Areal Data
 - Tuesday March 5:
-        - Lecture 16 - [Intro to areal data and areal data viz](https://stat534.github.io/Lecture16/)
+        - [Lecture 16 - Intro to areal data and areal data viz](https://stat534.github.io/Lecture16/)
     - Quiz 8 due: [link](https://stat534.github.io/Quiz8/) [download](https://classroom.github.com/a/OPlGsMDS)
 - Thursday March 7:
     - Lecture 17 - Exploratory approaches for areal data and Markov random fields
