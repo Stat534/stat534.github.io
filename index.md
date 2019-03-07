@@ -56,7 +56,7 @@
     - [Lecture 16 - Intro to areal data and areal data viz](https://stat534.github.io/Lecture16/)
     - Quiz 8 due: [link](https://stat534.github.io/Quiz8/) [download](https://classroom.github.com/a/OPlGsMDS)
 - Thursday March 7:
-    - Lecture 17 - Exploratory approaches for areal data and Markov random fields
+    - [Lecture 17 - Exploratory approaches for areal data and Markov random fields]( https://stat534.github.io/Lecture17/)
     - HW 7 due: [link](https://stat534.github.io/HW7/) [download](https://classroom.github.com/a/OU2Y30AO)
 - Tuesday March 12:
     - Lecture 18 - CAR and SAR models 
