@@ -63,7 +63,7 @@
     - Quiz 9 due: [link](https://stat534.github.io/Quiz9/) [download](https://classroom.github.com/a/QcLpjZQ1)
 - Thursday March 14:
     - Lecture 19 - Peer Review Day
-    - HW 10 due:
+    - HW 8 due: [link](https://stat534.github.io/HW8/) [download](https://classroom.github.com/a/Gtoe1RTQ)
 - Tuesday March 19: *spring break*
 - Thursday March 21: *spring break*    
 #### Midterm Project
@@ -73,7 +73,6 @@
 #### Areal Data Continued..
 - Tuesday April 2:
     - Lecture 20 - Areal Data Models
-    - Quiz 10 due:
 - Thursday April 4:
     - Lecture 21 - Areal Data Models
 #### Point Process Data
