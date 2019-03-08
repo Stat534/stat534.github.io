@@ -59,7 +59,7 @@
     - [Lecture 17 - Exploratory approaches for areal data and Markov random fields]( https://stat534.github.io/Lecture17/)
     - HW 7 due: [link](https://stat534.github.io/HW7/) [download](https://classroom.github.com/a/OU2Y30AO)
 - Tuesday March 12:
-    - Lecture 18 - CAR and SAR models 
+    - [Lecture 18 - CAR and SAR models]( https://stat534.github.io/Lecture18/)
     - ~~Quiz 9 due: [link](https://stat534.github.io/Quiz9/) [download](https://classroom.github.com/a/QcLpjZQ1)~~
 - Thursday March 14:
     - Lecture 19 - Peer Review Day
