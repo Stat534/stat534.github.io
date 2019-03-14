@@ -68,7 +68,20 @@
 - Thursday March 21: *spring break*    
 #### Midterm Project
 - Tuesday March 26: Project Presentations
+    1. Noah
+    2. Dan
+    3. Tristan
+    4. Sarah
+    5. Priscilla
+    6. Meaghan
+    
 - Thursday March 28: Project Presentations
+    1. Brynn
+    2. David
+    3. Rachel
+    4. Eli
+    5. Jerad
+    6. Wyatt
 - Sunday March 31: Written Project Summary Due: [Project Rubric](https://stat534.github.io/MidtermProject/ProjectRubric)
 #### Areal Data Continued..
 - Tuesday April 2:
