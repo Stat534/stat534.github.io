@@ -82,7 +82,8 @@
     4. Eli
     5. Jerad
     6. Wyatt
-- Sunday March 31: Written Project Summary Due: [Project Rubric](https://stat534.github.io/MidtermProject/ProjectRubric)
+- Sunday March 31: Written Project Summary Due: [Project Rubric](https://stat534.github.io/MidtermProject/ProjectRubric) [Submission Link](https://classroom.github.com/a/TjGg9KQu)
+
 #### Areal Data Continued..
 - Tuesday April 2:
     - Lecture 20 - Areal Data Models
