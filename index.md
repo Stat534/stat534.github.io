@@ -68,13 +68,7 @@
 - Thursday March 21: *spring break*    
 #### Midterm Project
 - Tuesday March 26: Project Presentations
-    1. Noah
-    2. Dan
-    3. Tristan
-    4. Sarah
-    5. Priscilla
-    6. Meaghan
-    
+
 - Thursday March 28: Project Presentations
     1. Brynn
     2. David
