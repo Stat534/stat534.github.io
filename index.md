@@ -70,12 +70,7 @@
 - Tuesday March 26: Project Presentations
 
 - Thursday March 28: Project Presentations
-    1. Brynn
-    2. David
-    3. Rachel
-    4. Eli
-    5. Jerad
-    6. Wyatt
+
 - Sunday March 31: Written Project Summary Due: [Project Rubric](https://stat534.github.io/MidtermProject/ProjectRubric) [Submission Link](https://classroom.github.com/a/TjGg9KQu)
 
 #### Areal Data Continued..
