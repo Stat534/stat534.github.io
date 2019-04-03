@@ -75,10 +75,11 @@
 
 #### Areal Data Continued..
 - Tuesday April 2:
-    - [Lecture 19 - Areal Data Models]( https://stat534.github.io/Lecture19/)
+    - [Lecture 19 - Areal Data Models](https://stat534.github.io/Lecture19/)
 - Thursday April 4:
-    - Lecture 21 - Areal Data Models
+    - [Lecture 20 - Areal Data Model Fitting](https://stat534.github.io/Lecture20/)
     - Quiz 8 due: [link](https://stat534.github.io/Quiz10/) [download](https://classroom.github.com/a/R6BBeqfY)
+    
 #### Point Process Data
 - Week of April 8
 - Week of April 15
