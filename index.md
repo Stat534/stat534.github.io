@@ -83,7 +83,7 @@
 #### Point Process Data
 - Tuesday April 9:
     - Lecture 21
-    - Quiz 11 due
+    - Quiz 11 due: [link](https://stat534.github.io/Quiz11/) [download](https://classroom.github.com/a/96n2Ioa0)
 - Thursday April 11:
     - Lecture 22
     - HW 9 due:
