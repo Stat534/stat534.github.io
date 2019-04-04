@@ -78,15 +78,32 @@
     - [Lecture 19 - Areal Data Models](https://stat534.github.io/Lecture19/)
 - Thursday April 4:
     - [Lecture 20 - Areal Data Model Fitting](https://stat534.github.io/Lecture20/)
-    - Quiz 8 due: [link](https://stat534.github.io/Quiz10/) [download](https://classroom.github.com/a/R6BBeqfY)
+    - Quiz 10 due: [link](https://stat534.github.io/Quiz10/) [download](https://classroom.github.com/a/R6BBeqfY)
     
 #### Point Process Data
-- Week of April 8
-- Week of April 15
-- Week of April 22
+- Tuesday April 9:
+    - Lecture 21
+    - Quiz 11 due
+- Thursday April 11:
+    - Lecture 22
+    - HW 9 due:
+- Tuesday April 16:
+    - Lecture 22
+    - Quiz 12 due
+- Thursday April 18:
+    - Lecture 23
+    - HW 10 due
+- Tuesday April 23:
+    - Lecture 24
+    - Quiz 13
+- Thursday April 24:
+    - Lecture 25
+    - HW 11 due
 
 #### Final Project
-- Week of April 29: Project presentations will be held during the assigned final exam time on May 3 from 2 - 3:50
+- Friday May 3:
+    - Written report due 8 AM
+    - Project Presentations from 2 - 3:50
 
 
 ## Course Description
