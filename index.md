@@ -86,7 +86,7 @@
     - Quiz 11 due: [link](https://stat534.github.io/Quiz11/) [download](https://classroom.github.com/a/96n2Ioa0)
 - Thursday April 11:
     - Lecture 22
-    - HW 9 due: 
+    - HW 9 due: [link](https://stat534.github.io/HW9/) [download](https://classroom.github.com/a/FtL_dkhG)
 - Tuesday April 16:
     - Lecture 22
     - Quiz 12 due
