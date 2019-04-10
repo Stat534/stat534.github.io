@@ -85,19 +85,19 @@
     - [Lecture 21 - Point Process](https://github.com/Stat534/Lecture21/blob/master/docs/index.pdf)
     - Quiz 11 due: [link](https://stat534.github.io/Quiz11/) [download](https://classroom.github.com/a/96n2Ioa0)
 - Thursday April 11:
-    - Lecture 22
+    - [Lecture 22 - Point Process](https://github.com/Stat534/Lecture22/blob/master/notes.pdf)
     - HW 9 due: [link](https://stat534.github.io/HW9/) [download](https://classroom.github.com/a/FtL_dkhG)
 - Tuesday April 16:
-    - Lecture 22
+    - Lecture 23
     - Quiz 12 due
 - Thursday April 18:
-    - Lecture 23
+    - Lecture 24
     - HW 10 due
 - Tuesday April 23:
-    - Lecture 24
+    - Lecture 25
     - Quiz 13
 - Thursday April 24:
-    - Lecture 25
+    - Lecture 26
     - HW 11 due
 
 #### Final Project
