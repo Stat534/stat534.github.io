@@ -88,8 +88,7 @@
     - [Lecture 22 - Point Process](https://github.com/Stat534/Lecture22/blob/master/notes.pdf)
     - HW 9 due: [link](https://stat534.github.io/HW9/) [download](https://classroom.github.com/a/FtL_dkhG)
 - Tuesday April 16:
-    - Lecture 23
-    - Quiz 12 due
+    - [Lecture 23 - K Function and spatstat](https://github.com/Stat534/Lecture23/blob/master/notes.pdf)
 - Thursday April 18:
     - Lecture 24
     - HW 10 due
