@@ -90,7 +90,7 @@
 - Tuesday April 16:
     - [Lecture 23 - K Function and spatstat](https://github.com/Stat534/Lecture23/blob/master/notes.pdf)
 - Thursday April 18:
-    - Lecture 24
+    - [Lecture 24 - Modeling Point Process Data](https://github.com/Stat534/Lecture24/blob/master/notes.pdf)
     - HW 10 due: [link](https://stat534.github.io/HW9/) [download](https://classroom.github.com/a/9F7xzDej)
 - Tuesday April 23:
     - Lecture 25
