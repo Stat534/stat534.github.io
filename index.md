@@ -93,10 +93,10 @@
     - [Lecture 24 - Modeling Point Process Data](https://github.com/Stat534/Lecture24/blob/master/notes.pdf)
     - HW 10 due: [link](https://stat534.github.io/HW10/) [download](https://classroom.github.com/a/9F7xzDej)
 - Tuesday April 23:
-    - Lecture 25
-    - Quiz 13
+    - Lecture 24 - continued
+    - Quiz 13 due: [link](https://stat534.github.io/Quiz13/) [download](https://classroom.github.com/a/HXVTT9d6)
 - Thursday April 24:
-    - Lecture 26
+    - Lecture 25
     - HW 11 due
 
 #### Final Project
