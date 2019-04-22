@@ -97,7 +97,7 @@
     - Quiz 13 due: [link](https://stat534.github.io/Quiz13/) [download](https://classroom.github.com/a/HXVTT9d6)
 - Thursday April 24:
     - [Lecture 25 - Model Fitting / Marked Point Patterns](https://github.com/Stat534/Lecture25/blob/master/key.pdf)
-    - HW 11 due Monday April 29: [link](https://stat534.github.io/HW10/) [download](https://classroom.github.com/a/EWVTLBlk)
+    - HW 11 due Monday April 29: [link](https://stat534.github.io/HW11/) [download](https://classroom.github.com/a/EWVTLBlk)
 
 #### Final Project
 - Friday May 3:
