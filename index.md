@@ -101,8 +101,8 @@
 
 #### Final Project
 - Friday May 3:
-    - Written report due 8 AM
-    - Project Presentations from 2 - 3:50
+    - Written report due 8 AM: [Submission Link](https://classroom.github.com/a/EYyZV28I)
+    - Project Presentations from 2 - 3:50 
 
 
 ## Course Description
