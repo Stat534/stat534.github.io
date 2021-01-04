@@ -1,3 +1,5 @@
+#### Course Description
+
 Statistical methods of spatial data analysis, stationary and nonstationary random fields, covariance structures, geostatistical models and analysis, spatial point process models and analysis, spatial lattice models and analysis. An emphasis will be placed on:
 
 1. Creating maps and other data visualization products with spatial data, 
