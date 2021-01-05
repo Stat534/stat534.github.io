@@ -29,6 +29,7 @@ At the end of the course students will understand
 # Textbooks
 
 - Hierarchical Modeling and Analysis for Spatial Data, Second Edition, by Bannerjee, Carlin, and Gelfand. While the second edition is preferred, the first edition will suffice.
+- Animal Movement: Statistical Models for Telemetry Data, by Hooten, Johnson, McClintock, and Morales. _Optional_
 
 # Additional Resources
 Analysis, data visualization, and version control procedures will be implemented with:
