@@ -112,9 +112,16 @@ Due to the ongoing pandemic and issues stemming from this, a synchronous virtual
 
 ---
 
-#### Week Two: Introduction: Git, R Studio, and Spatial Data Visualization
+#### Week Two: Linear Models and Bayesian Inference
 
 ##### Weekly Materials
 - Suggested Reading:
 
 - Weekly Notes: 
+
+- Monday January 18: __No Class MLK Day__
+
+- Wednesday January 20: 
+
+- Friday January 15: 
+
