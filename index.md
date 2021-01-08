@@ -110,6 +110,8 @@ Due to the ongoing pandemic and issues stemming from this, a synchronous virtual
 
 - Friday January 15: Intro to Spatial Data Visualization in R _(Interactive Demo)_
 
+---
+
 #### Week Two: Introduction: Git, R Studio, and Spatial Data Visualization
 
 ##### Weekly Materials
