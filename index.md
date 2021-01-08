@@ -98,3 +98,21 @@ Due to the ongoing pandemic and issues stemming from this, a synchronous virtual
 3. Point Referenced Data
 4. Areal Data
 5. Point Process Data (and potentially animal movement models)
+
+## Course Schedule
+
+#### Week One: Introduction: Git, R Studio, and Spatial Data Visualization
+
+- Monday January 11: Course Overview and Class Conversation
+
+- Wednesday January 13: Intro to R Studio and Git. _(Interactive Demo)_
+   - [Git Demo Slides](https://stat505.github.io/GitDemo/)
+
+- Friday January 15: Intro to Spatial Data Visualization in R _(Interactive Demo)_
+
+#### Week Two: Introduction: Git, R Studio, and Spatial Data Visualization
+
+##### Weekly Materials
+- Suggested Reading:
+
+- Weekly Notes: 
