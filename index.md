@@ -81,7 +81,12 @@ Please evaluate your own health status regularly and refrain from attending clas
 
 In the event that one or more students and/or the instructor are required to quarantine or if the university moves courses online, the course may need to continue in a virtual format. Communication about how the course will proceed will be available through D2l.
 
-# Approximate Course Outline
+### Virtual Attendance
+
+Due to the ongoing pandemic and issues stemming from this, a synchronous virtual attendance option will be permitted for this course. The Microsoft Teams platform will be used for this virtual option. When attending virtually, if at all possible, please plan to have your video camera turned on.
+
+
+## Approximate Course Outline
 
 1. Course Intro & Preliminaries:
   - R
