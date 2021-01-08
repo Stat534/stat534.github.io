@@ -11,7 +11,7 @@ Statistical methods of spatial data analysis, stationary and nonstationary rando
 4. Implementing version control tools, such as git and github, on spatial data analyses.
 
 
-# Learning Outcomes:
+## Learning Outcomes:
 At the end of the course students will understand
 
 1. point process theory and applications including homogeneous and non-homogeneous Poisson point processes
@@ -21,26 +21,26 @@ At the end of the course students will understand
 3. spatial autoregression including covariance estimation, spatial logistic and Poisson models, simultaneous autoregressive models, conditional autoregressive models.
 
 
-# Prerequisites
+## Prerequisites
 
 - Required: STAT 412, STAT 512, and STAT 422
 - Preferred: STAT 506, extensive experience with R, and an understanding or interest in Bayesian statistics
 
-# Textbooks
+## Textbooks
 
 - Hierarchical Modeling and Analysis for Spatial Data, Second Edition, by Bannerjee, Carlin, and Gelfand. While the second edition is preferred, the first edition will suffice.
 - Animal Movement: Statistical Models for Telemetry Data, by Hooten, Johnson, McClintock, and Morales. _Optional_
 
-# Additional Resources
+## Additional Resources
 Analysis, data visualization, and version control procedures will be implemented with:
 
 - R / R Studio
 - Git / Github
 
-# Course Policies
+## Course Policies
 
 
-### Grading Policy
+#### Grading Policy
 
 - **50%** of your grade will be determined by homework assignments. Collaboration is encouraged on homework assignments, but everyone should complete their own assignments. 
 
@@ -49,19 +49,19 @@ Analysis, data visualization, and version control procedures will be implemented
 - **25%** of your grade will be determined by a final project.
 
 
-### Collaboration
+#### Collaboration
 University policy states that, unless otherwise specified, students may not collaborate on graded material. Any exceptions to this policy will be stated explicitly for individual assignments. If you have any questions about the limits of collaboration, you are expected to ask for clarification.
 
 In this class students are encouraged to collaborate on homework assignments, but exams and projects should be completed without collaboration.
 
-###  Academic Misconduct
+####  Academic Misconduct
 Section 420 of the Student Conduct Code describes academic misconduct as including but not limited to plagiarism, cheating, multiple submissions, or facilitating others’ misconduct. Possible sanctions for academic misconduct range from an oral reprimand to expulsion from the university.
 
-### Disabilities Policy
+#### Disabilities Policy
 
 Federal law mandates the provision of services at the university-level to qualified students with disabilities. If you have a documented disability for which you are or may be requesting an accommodation(s), you are encouraged to contact the Office of Disability Services as soon as possible.
 
-### Masks
+#### Masks
 
 WEARING MASKS IN CLASSROOMS IS REQUIRED Face coverings that cover the mouth and nose are required in all indoor spaces and all enclosed or partially enclosed outdoor spaces. MSU requires all students to wear face masks or cloth face coverings in classrooms, laboratories and other similar spaces where in-person instruction occurs. MSU requires the wearing of masks in physical classrooms to help mitigate the transmission of SARS-CoV-2, which causes COVID-19. The MSU community views the adoption of these practices as a mark of good citizenship and respectful care of fellow classmates, faculty, and staff.
 
@@ -73,20 +73,20 @@ For more information: https://www.montana.edu/health/coronavirus/prevention/inde
 
 Compliance with the face-covering protocol is expected. If a you do not comply with a classroom rule, you may be requested to leave class. Section 460.00 of the MSU Code of Student Conduct covers “disruptive student behavior.”
 
-### Health-Related Class Absences
+#### Health-Related Class Absences
 
 Please evaluate your own health status regularly and refrain from attending class and other on-campus events if you are ill. MSU students who miss class due to illness will be given opportunities to access course materials online. You are encouraged to seek appropriate medical attention for treatment of illness. In the event of contagious illness, please do not come to class or to campus to turn in work. Instead notify me by email about your absence as soon as practical, so that accommodations can be made. Please note that documentation (a Doctor’s note) for medical excuses is not required. MSU University Health Partners - as part their commitment to maintain patient confidentiality, to encourage more appropriate use of healthcare resources, and to support meaningful dialogue between instructors and students - does not provide such documentation.
 
-### Course Communication
+#### Course Communication
 
 In the event that one or more students and/or the instructor are required to quarantine or if the university moves courses online, the course may need to continue in a virtual format. Communication about how the course will proceed will be available through D2l.
 
-### Virtual Attendance
+#### Virtual Attendance
 
 Due to the ongoing pandemic and issues stemming from this, a synchronous virtual attendance option will be permitted for this course. The Microsoft Teams platform will be used for this virtual option. When attending virtually, if at all possible, please plan to have your video camera turned on.
 
 
-## Approximate Course Outline
+### Approximate Course Outline
 
 1. Course Intro & Preliminaries:
   - R
