@@ -103,12 +103,19 @@ Due to the ongoing pandemic and issues stemming from this, a synchronous virtual
 
 #### Week One: Introduction: Git, R Studio, and Spatial Data Visualization
 
+###### Weekly Resources:
+
+Virtual Materials:
+  - [Leaflet Overview](https://rstudio.github.io/leaflet/)
+
+###### Class Overview:
+
 - Monday January 11: Course Overview and Class Conversation
 
 - Wednesday January 13: Intro to R Studio and Git. _(Interactive Demo)_
    - [Git Demo Slides](https://stat505.github.io/GitDemo/)
 
-- Friday January 15: Intro to Spatial Data Visualization in R _(Interactive Demo)_
+- Friday January 15: Intro to Spatial Data Visualization in R with Leaflet _(Interactive Demo)_
 
 ---
 
