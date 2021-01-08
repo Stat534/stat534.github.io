@@ -16,7 +16,7 @@
 title: STAT 534
 email: andrew.hoegh@montana.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Course Materials for STAT534, Spatial analysi
+  Course Materials for STAT534, Spatial analysis
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
