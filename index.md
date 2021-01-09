@@ -134,3 +134,18 @@ Virtual Materials:
 
 - Friday January 15: 
 
+---
+
+#### Week Three: Stan and Gaussian Processes in 1D
+
+##### Weekly Materials
+- Suggested Reading:
+
+- Weekly Notes: 
+
+- Monday January 25: 
+
+- Wednesday January 27: 
+
+- Friday January 29: 
+
