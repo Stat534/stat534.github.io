@@ -107,16 +107,17 @@ Due to the ongoing pandemic and issues stemming from this, a synchronous virtual
 
 Virtual Materials:
   - [Leaflet Overview](https://rstudio.github.io/leaflet/)
+  - [Happy Git with R, Ch.1](https://happygitwithr.com/big-picture.html)
 
 ###### Class Overview:
 
 - Monday January 11: Course Overview and Class Conversation
 
-- Wednesday January 13: Intro to R Studio and Git. _(Interactive Demo)_
+- Wednesday January 13: Intro to R Studio, Git, and GitHub Classroom. _(Interactive Demo)_
     - [Git Demo Slides](https://stat505.github.io/GitDemo/)
 
 - Friday January 15: Intro to Spatial Data Visualization in R with Leaflet _(Interactive Demo)_
-    - [Leaflet Demo](https://stat534.github.io/DataViz/)
+    - [Leaflet Demo](https://stat534.github.io/DataViz/) ([Download Repo](https://classroom.github.com/a/vIyJnLok))
 
 ---
 
