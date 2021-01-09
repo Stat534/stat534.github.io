@@ -113,9 +113,10 @@ Virtual Materials:
 - Monday January 11: Course Overview and Class Conversation
 
 - Wednesday January 13: Intro to R Studio and Git. _(Interactive Demo)_
-   - [Git Demo Slides](https://stat505.github.io/GitDemo/)
+    - [Git Demo Slides](https://stat505.github.io/GitDemo/)
 
 - Friday January 15: Intro to Spatial Data Visualization in R with Leaflet _(Interactive Demo)_
+    - [Leaflet Demo](https://stat534.github.io/DataViz/)
 
 ---
 
