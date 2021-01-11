@@ -20,6 +20,10 @@ At the end of the course students will understand
 
 3. spatial autoregression including covariance estimation, spatial logistic and Poisson models, simultaneous autoregressive models, conditional autoregressive models.
 
+## Course Syllabus
+
+A downloadable PDF of the course syllabus is available: [Download PDF Syllabus](https://github.com/Stat534/syllabus/raw/main/syllabus_2021.pdf)
+
 
 ## Prerequisites
 
