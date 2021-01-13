@@ -130,7 +130,7 @@ Virtual Materials:
 ##### Weekly Materials
 - Suggested Reading:
 
-- Weekly Notes: 
+- Weekly Notes: [PDF](https://github.com/Stat534/CourseIntro/blob/main/LM.pdf) ([RMD Source](https://raw.githubusercontent.com/Stat534/CourseIntro/main/LM.Rmd))
 
 - Monday January 18: __No Class MLK Day__
 
