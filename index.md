@@ -39,6 +39,10 @@ Virtual Materials:
 
 ##### Weekly Materials
 - Suggested Reading:
+    - [Gramacy: Surrogates Ch 5.1](https://bookdown.org/rbg/surrogates/chap5.html#chap5gpprior)
+
+- Virtual Materials:
+    - [R Stan Installation Guidelines](https://github.com/stan-dev/rstan/wiki/RStan-Getting-Started)
 
 - Weekly Notes: 
 
