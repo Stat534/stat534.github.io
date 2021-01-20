@@ -29,7 +29,7 @@ Virtual Materials:
 
 - Monday January 18: __No Class MLK Day__
 
-- Wednesday January 20: 
+- Wednesday January 20: Linear Models Overview
 
 - Friday January 15: 
 
@@ -38,11 +38,9 @@ Virtual Materials:
 #### Week Three: Stan and Gaussian Processes in 1D
 
 ##### Weekly Materials
-- Suggested Reading:
-    - [Gramacy: Surrogates Ch 5.1](https://bookdown.org/rbg/surrogates/chap5.html#chap5gpprior)
+- Suggested Reading: [Gramacy: Surrogates Ch 5.1](https://bookdown.org/rbg/surrogates/chap5.html#chap5gpprior)
 
-- Virtual Materials:
-    - [R Stan Installation Guidelines](https://github.com/stan-dev/rstan/wiki/RStan-Getting-Started)
+- Virtual Materials: [R Stan Installation Guidelines](https://github.com/stan-dev/rstan/wiki/RStan-Getting-Started)
 
 - Weekly Notes: 
 
