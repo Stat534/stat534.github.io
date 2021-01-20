@@ -27,6 +27,8 @@ Virtual Materials:
 
 - Weekly Notes: [PDF](https://github.com/Stat534/CourseIntro/blob/main/LM.pdf) ([RMD Source](https://raw.githubusercontent.com/Stat534/CourseIntro/main/LM.Rmd))
 
+###### Class Overview:
+
 - Monday January 18: __No Class MLK Day__
 
 - Wednesday January 20: Linear Models Overview
@@ -43,6 +45,8 @@ Virtual Materials:
 - Virtual Materials: [R Stan Installation Guidelines](https://github.com/stan-dev/rstan/wiki/RStan-Getting-Started)
 
 - Weekly Notes: 
+
+###### Class Overview:
 
 - Monday January 25: 
 
