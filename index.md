@@ -1,3 +1,55 @@
+## Course Schedule
+
+#### Week One: Introduction: Git, R Studio, and Spatial Data Visualization
+
+###### Weekly Resources:
+
+Virtual Materials:
+  - [Leaflet Overview](https://rstudio.github.io/leaflet/)
+  - [Happy Git with R, Ch.1](https://happygitwithr.com/big-picture.html)
+
+###### Class Overview:
+
+- Monday January 11: Course Overview and Class Conversation
+
+- Wednesday January 13: Intro to R Studio, Git, and GitHub Classroom. _(Interactive Demo)_
+    - [Git Demo Slides](https://stat505.github.io/GitDemo/)
+
+- Friday January 15: Intro to Spatial Data Visualization in R with Leaflet _(Interactive Demo)_
+    - [Leaflet Demo](https://stat534.github.io/DataViz/) ([Download Repo](https://classroom.github.com/a/vIyJnLok))
+
+---
+
+#### Week Two: Linear Models and Bayesian Inference
+
+##### Weekly Materials
+- Suggested Reading:
+
+- Weekly Notes: [PDF](https://github.com/Stat534/CourseIntro/blob/main/LM.pdf) ([RMD Source](https://raw.githubusercontent.com/Stat534/CourseIntro/main/LM.Rmd))
+
+- Monday January 18: __No Class MLK Day__
+
+- Wednesday January 20: 
+
+- Friday January 15: 
+
+---
+
+#### Week Three: Stan and Gaussian Processes in 1D
+
+##### Weekly Materials
+- Suggested Reading:
+
+- Weekly Notes: 
+
+- Monday January 25: 
+
+- Wednesday January 27: 
+
+- Friday January 29: 
+
+
+
 #### Course Description
 
 Statistical methods of spatial data analysis, stationary and nonstationary random fields, covariance structures, geostatistical models and analysis, spatial point process models and analysis, spatial lattice models and analysis. An emphasis will be placed on:
@@ -102,54 +154,4 @@ Due to the ongoing pandemic and issues stemming from this, a synchronous virtual
 3. Point Referenced Data
 4. Areal Data
 5. Point Process Data (and potentially animal movement models)
-
-## Course Schedule
-
-#### Week One: Introduction: Git, R Studio, and Spatial Data Visualization
-
-###### Weekly Resources:
-
-Virtual Materials:
-  - [Leaflet Overview](https://rstudio.github.io/leaflet/)
-  - [Happy Git with R, Ch.1](https://happygitwithr.com/big-picture.html)
-
-###### Class Overview:
-
-- Monday January 11: Course Overview and Class Conversation
-
-- Wednesday January 13: Intro to R Studio, Git, and GitHub Classroom. _(Interactive Demo)_
-    - [Git Demo Slides](https://stat505.github.io/GitDemo/)
-
-- Friday January 15: Intro to Spatial Data Visualization in R with Leaflet _(Interactive Demo)_
-    - [Leaflet Demo](https://stat534.github.io/DataViz/) ([Download Repo](https://classroom.github.com/a/vIyJnLok))
-
----
-
-#### Week Two: Linear Models and Bayesian Inference
-
-##### Weekly Materials
-- Suggested Reading:
-
-- Weekly Notes: [PDF](https://github.com/Stat534/CourseIntro/blob/main/LM.pdf) ([RMD Source](https://raw.githubusercontent.com/Stat534/CourseIntro/main/LM.Rmd))
-
-- Monday January 18: __No Class MLK Day__
-
-- Wednesday January 20: 
-
-- Friday January 15: 
-
----
-
-#### Week Three: Stan and Gaussian Processes in 1D
-
-##### Weekly Materials
-- Suggested Reading:
-
-- Weekly Notes: 
-
-- Monday January 25: 
-
-- Wednesday January 27: 
-
-- Friday January 29: 
 
