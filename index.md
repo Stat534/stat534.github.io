@@ -23,7 +23,7 @@ Virtual Materials:
 #### Week Two: Linear Models and Bayesian Inference
 
 ##### Weekly Materials
-- Suggested Reading:
+- Suggested Reading: Hierarchical Modeling and Analysis for Spatial Data (HMASD), Chapter 5: Basics of Bayesian Inference
 
 - Weekly Notes: [PDF](https://github.com/Stat534/CourseIntro/blob/main/LM.pdf) ([RMD Source](https://raw.githubusercontent.com/Stat534/CourseIntro/main/LM.Rmd))
 
