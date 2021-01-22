@@ -59,7 +59,7 @@ Virtual Materials:
 #### Week Four: 
 
 ##### Weekly Materials
-- HW 1 due
+- [HW 1 due end of day Monday February 1](https://github.com/Stat534/Homework1/blob/main/HW1.md) ([Download Repo](https://classroom.github.com/a/X6CC6Yy7))
 
 - Suggested Reading: 
 
