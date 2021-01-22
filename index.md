@@ -44,7 +44,7 @@ Virtual Materials:
 
 - Virtual Materials: [R Stan Installation Guidelines](https://github.com/stan-dev/rstan/wiki/RStan-Getting-Started)
 
-- Weekly Notes: 
+- Weekly Notes: [PDF](https://github.com/Stat534/Bayes_Stan/blob/main/Bayes_Stan.pdf) ([RMD Source](https://github.com/Stat534/Bayes_Stan/blob/main/Bayes_Stan.Rmd))
 
 ###### Class Overview:
 
@@ -54,6 +54,24 @@ Virtual Materials:
 
 - Friday January 29: 
 
+---
+
+#### Week Four: 
+
+##### Weekly Materials
+- Suggested Reading: 
+
+- Virtual Materials: 
+
+- Weekly Notes: 
+
+###### Class Overview:
+
+- Monday February 1: 
+
+- Wednesday February 3: 
+
+- Friday February 5: 
 
 
 #### Course Description
