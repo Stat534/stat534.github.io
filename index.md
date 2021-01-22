@@ -33,7 +33,7 @@ Virtual Materials:
 
 - Wednesday January 20: Linear Models Overview
 
-- Friday January 15: 
+- Friday January 22: 
 
 ---
 
@@ -59,6 +59,8 @@ Virtual Materials:
 #### Week Four: 
 
 ##### Weekly Materials
+- HW 1 due
+
 - Suggested Reading: 
 
 - Virtual Materials: 
