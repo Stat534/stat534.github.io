@@ -33,7 +33,7 @@ Virtual Materials:
 
 - Wednesday January 20: Linear Models Overview
 
-- Friday January 22: 
+- Friday January 22: Linear Models + Bayes Intro
 
 ---
 
@@ -48,7 +48,7 @@ Virtual Materials:
 
 ###### Class Overview:
 
-- Monday January 25: 
+- Monday January 25: Bayes Theorem + Bayesian overview
 
 - Wednesday January 27: 
 
