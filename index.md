@@ -52,7 +52,7 @@ Virtual Materials:
 
 - Wednesday January 27: Visual Overview of Bayesian Analysis
 
-- Friday January 29: Stan Demo + Multivariate Normal Distribution _(Interactive Demo)_
+- Friday January 29: Stan Demo + Multivariate Normal Distribution _(Interactive Demo)_ ([Stan Demo](https://stat534.github.io/stan_demo/)) ([Download Repo](https://classroom.github.com/a/bfUddJmO))
 
 ---
 
