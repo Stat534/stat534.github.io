@@ -37,7 +37,7 @@ Virtual Materials:
 
 ---
 
-#### Week Three: Stan and Gaussian Processes in 1D
+#### Week Three: Bayes and Stan 
 
 ##### Weekly Materials
 - Suggested Reading: [Gramacy: Surrogates Ch 5.1](https://bookdown.org/rbg/surrogates/chap5.html#chap5gpprior)
@@ -50,18 +50,18 @@ Virtual Materials:
 
 - Monday January 25: Bayes Theorem + Bayesian overview
 
-- Wednesday January 27: 
+- Wednesday January 27: Visual Overview of Bayesian Analysis
 
-- Friday January 29: 
+- Friday January 29: Stan Demo + Multivariate Normal Distribution _(Interactive Demo)_
 
 ---
 
-#### Week Four: 
+#### Week Four: Gaussian Processes in 1D
 
 ##### Weekly Materials
 - [HW 1 due end of day Monday February 1](https://github.com/Stat534/Homework1/blob/main/HW1.md) ([Download Repo](https://classroom.github.com/a/X6CC6Yy7))
 
-- Suggested Reading: 
+- Suggested Reading: [Gramacy: Surrogates Ch 5.1](https://bookdown.org/rbg/surrogates/chap5.html#chap5gpprior)
 
 - Virtual Materials: 
 
@@ -69,9 +69,9 @@ Virtual Materials:
 
 ###### Class Overview:
 
-- Monday February 1: 
+- Monday February 1: Stan Demo + Multivariate Normal Distribution continued _(Interactive Demo)_
 
-- Wednesday February 3: 
+- Wednesday February 3: Mathematical exploration of Multivariate Normal Distribution
 
 - Friday February 5: 
 
