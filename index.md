@@ -52,7 +52,7 @@ Virtual Materials:
 
 - Wednesday January 27: Visual Overview of Bayesian Analysis
 
-- Friday January 29: Stan Demo + Multivariate Normal Distribution _(Interactive Demo)_ ([Stan Demo](https://stat534.github.io/stan_demo/)) ([Download Repo](https://classroom.github.com/a/bfUddJmO))
+- Friday January 29: Stan Demo  _(Interactive Demo)_ ([Stan Demo](https://stat534.github.io/stan_demo/)) ([Download Repo](https://classroom.github.com/a/bfUddJmO))
 
 ---
 
@@ -65,15 +65,15 @@ Virtual Materials:
 
 - Virtual Materials: 
 
-- Weekly Notes: 
+- Weekly Notes: [PDF](https://github.com/Stat534/GP/blob/main/LinearAlgebraFoundations.pdf) ([Download Repo](https://github.com/Stat534/GP/blob/main/LinearAlgebraFoundations.Rmd))
 
 ###### Class Overview:
 
-- Monday February 1: Stan Demo + Multivariate Normal Distribution continued _(Interactive Demo)_
+- Monday February 1: Linear Algebra Recap
 
 - Wednesday February 3: Mathematical exploration of Multivariate Normal Distribution
 
-- Friday February 5: 
+- Friday February 5: Correlated Normal Demo _(Interactive Demo)_
 
 
 #### Course Description
