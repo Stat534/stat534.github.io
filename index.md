@@ -73,13 +73,14 @@ Virtual Materials:
 
 - Wednesday February 3: Mathematical exploration of Multivariate Normal Distribution
 
-- Friday February 5: Correlated Normal Demo _(Interactive Demo)_ ([Conditional Normal Demo]( https://stat534.github.io/conditionalnormal_demo/) ([Download Repo](https://classroom.github.com/a/IbT2Azly))
+- Friday February 5: Correlated Normal Demo _(Interactive Demo)_ [Conditional Normal Demo]( https://stat534.github.io/conditionalnormal_demo/) ([Download Repo](https://classroom.github.com/a/IbT2Azly))
 
 ---
 
 #### Week Five: Gaussian Processes and GP regression
 
 ##### Weekly Materials
+- [Project 1 Proposal due end of day Monday February 8](https://stat534.github.io/Project_one/) ([Download Repo](https://classroom.github.com/a/EegbM3LV))
 - HW 2 due end of day Monday February 15
 
 - Suggested Reading: 
