@@ -56,7 +56,7 @@ Virtual Materials:
 
 ---
 
-#### Week Four: Gaussian Processes in 1D
+#### Week Four: Linear Algebra and Conditional Multivariate Normal
 
 ##### Weekly Materials
 - [HW 1 due end of day Monday February 1](https://github.com/Stat534/Homework1/blob/main/HW1.md) ([Download Repo](https://classroom.github.com/a/X6CC6Yy7))
@@ -73,8 +73,28 @@ Virtual Materials:
 
 - Wednesday February 3: Mathematical exploration of Multivariate Normal Distribution
 
-- Friday February 5: Correlated Normal Demo _(Interactive Demo)_
+- Friday February 5: Correlated Normal Demo _(Interactive Demo)_ ([Conditional Normal Demo]( https://stat534.github.io/conditionalnormal_demo/) ([Download Repo](https://classroom.github.com/a/IbT2Azly))
 
+---
+
+#### Week Five: Gaussian Processes and GP regression
+
+##### Weekly Materials
+- HW 2 due end of day Monday February 15
+
+- Suggested Reading: 
+
+- Weekly Notes: 
+
+###### Class Overview:
+
+- Monday February 8: Theory of Gaussian Processes 
+
+- Wednesday February 10: GP Regression in 1D
+
+- Friday February 12: GP Regression in 2D (Kriging)
+
+---
 
 #### Course Description
 
