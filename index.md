@@ -81,7 +81,7 @@ Virtual Materials:
 
 ##### Weekly Materials
 - [Project 1 Proposal due end of day Monday February 8](https://stat534.github.io/Project_one/) ([Download Repo](https://classroom.github.com/a/EegbM3LV))
-- HW 2 due end of day Monday February 15
+- [HW 2 due end of day Monday February 15](https://github.com/Stat534/homework2/blob/main/HW2.md) ([Download Repo](https://classroom.github.com/a/JE-jzwTJ))
 
 - Suggested Reading: 
 
