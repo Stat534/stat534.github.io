@@ -85,7 +85,7 @@ Virtual Materials:
 
 - Suggested Reading: 
 
-- Weekly Notes: 
+- Weekly Notes: [PDF](https://github.com/Stat534/GP/blob/main/GP_Theory.pdf) ([Download Repo](https://raw.githubusercontent.com/Stat534/GP/main/GP_Theory.Rmd))
 
 ###### Class Overview:
 
@@ -93,7 +93,7 @@ Virtual Materials:
 
 - Wednesday February 10: GP Regression in 1D
 
-- Friday February 12: GP Regression in 2D (Kriging)
+- Friday February 12: 
 
 ---
 
