@@ -85,15 +85,36 @@ Virtual Materials:
 
 - Suggested Reading: 
 
-- Weekly Notes: [PDF](https://github.com/Stat534/GP/blob/main/GP_Theory.pdf) ([Download Repo](https://raw.githubusercontent.com/Stat534/GP/main/GP_Theory.Rmd))
+- Weekly Notes: 
+  - [PDF](https://github.com/Stat534/GP/blob/main/GP_Theory.pdf) ([Download Repo](https://raw.githubusercontent.com/Stat534/GP/main/GP_Theory.Rmd))
+  - [PDF (Part 2)](https://github.com/Stat534/GP/blob/main/GP_Theory2.pdf) ([Download Repo](https://raw.githubusercontent.com/Stat534/GP/main/GP_Theory2.Rmd))
 
 ###### Class Overview:
 
 - Monday February 8: Theory of Gaussian Processes 
 
-- Wednesday February 10: GP Regression in 1D
+- Wednesday February 10: GP in 2D
 
 - Friday February 12: 
+
+---
+
+#### Week Six: 
+
+##### Weekly Materials
+- Project 1: Introduction,  Research Question, and Data viz due end of day Monday February 22
+
+- Suggested Reading: 
+
+- Weekly Notes: 
+
+###### Class Overview:
+
+- Monday February 15: __President's Day no class__ 
+
+- Wednesday February 17: 
+
+- Friday February 19: 
 
 ---
 
