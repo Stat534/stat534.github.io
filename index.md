@@ -83,7 +83,7 @@ Virtual Materials:
 - [Project 1 Proposal due end of day Monday February 8](https://stat534.github.io/Project_one/) ([Download Repo](https://classroom.github.com/a/EegbM3LV))
 - [HW 2 due end of day Monday February 15](https://github.com/Stat534/homework2/blob/main/HW2.md) ([Download Repo](https://classroom.github.com/a/JE-jzwTJ))
 
-- Suggested Reading: 
+- Suggested Reading:  HMASD Ch.1 Overview of Spatial Data Problems
 
 - Weekly Notes: 
   - [PDF](https://github.com/Stat534/GP/blob/main/GP_Theory.pdf) ([Download Repo](https://raw.githubusercontent.com/Stat534/GP/main/GP_Theory.Rmd))
@@ -95,7 +95,7 @@ Virtual Materials:
 
 - Wednesday February 10: GP in 2D
 
-- Friday February 12: 
+- Friday February 12: Projections and Distance Calculations
 
 ---
 
@@ -104,7 +104,7 @@ Virtual Materials:
 ##### Weekly Materials
 - Project 1: Introduction,  Research Question, and Data viz due end of day Monday February 22
 
-- Suggested Reading: 
+- Suggested Reading:
 
 - Weekly Notes: 
 
