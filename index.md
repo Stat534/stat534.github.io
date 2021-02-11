@@ -88,7 +88,7 @@ Virtual Materials:
 - Weekly Notes: 
   - [PDF](https://github.com/Stat534/GP/blob/main/GP_Theory.pdf) ([Rmd Source](https://raw.githubusercontent.com/Stat534/GP/main/GP_Theory.Rmd))
   - [PDF (Part 2)](https://github.com/Stat534/GP/blob/main/GP_Theory2.pdf) ([RMD Source](https://raw.githubusercontent.com/Stat534/GP/main/GP_Theory2.Rmd))
-  - [PDF (Part 3)](https://github.com/Stat534/Projects_Viz_Notation/blob/main/Cartography.pdf) ([RMD Source](https://raw.githubusercontent.com/Stat534/Projects_Viz_Notation/main/Cartography.Rmd))
+  
 
 ###### Class Overview:
 
@@ -96,7 +96,7 @@ Virtual Materials:
 
 - Wednesday February 10: GP in 2D
 
-- Friday February 12: Projections and Distance Calculations; Spatial data in R
+- Friday February 12: GP demo _(Interactive Demo)_ [GP Demo](https://stat534.github.io/GP_Demo/) ([Download Repo](https://classroom.github.com/a/kjqDRStf))
 
 ---
 
@@ -108,12 +108,13 @@ Virtual Materials:
 - Suggested Reading:
 
 - Weekly Notes: 
+  - [PDF](https://github.com/Stat534/Projects_Viz_Notation/blob/main/Cartography.pdf) ([RMD Source](https://raw.githubusercontent.com/Stat534/Projects_Viz_Notation/main/Cartography.Rmd))
 
 ###### Class Overview:
 
 - Monday February 15: __President's Day no class__ 
 
-- Wednesday February 17: 
+- Wednesday February 17: Projections and Distance Calculations; Spatial data in R
 
 - Friday February 19: 
 
