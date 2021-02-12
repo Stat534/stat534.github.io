@@ -104,8 +104,9 @@ Virtual Materials:
 
 ##### Weekly Materials
 - Project 1: Introduction,  Research Question, and Data viz due end of day Monday February 22
+- HW 3 due end of day Monday February 22
 
-- Suggested Reading:
+- Suggested Reading: HMASD Ch.2 Basics of Point Referenced Models
 
 - Weekly Notes: 
   - [PDF](https://github.com/Stat534/Projects_Viz_Notation/blob/main/Cartography.pdf) ([RMD Source](https://raw.githubusercontent.com/Stat534/Projects_Viz_Notation/main/Cartography.Rmd))
@@ -113,13 +114,53 @@ Virtual Materials:
 ###### Class Overview:
 
 - Monday February 15: __President's Day no class__ 
+  - HW 2 Due
 
 - Wednesday February 17: Projections and Distance Calculations; Spatial data in R
 
-- Friday February 19: 
+- Friday February 19: Stationarity and Variograms
 
 ---
 
+#### Week Seven: 
+
+##### Weekly Materials
+
+- Suggested Reading: 
+
+- Weekly Notes: 
+  - 
+
+###### Class Overview:
+
+- Monday February 22: Fitting variograms and covariance functions
+  - Project 1: Introduction,  Research Question, and Data viz due end of day Monday February 22
+  - HW 3 due
+
+- Wednesday February 24: Spatial EDA
+
+- Friday February 26: Model Fitting, CV, Prediction
+
+---
+
+#### Week Eight: 
+
+##### Weekly Materials
+
+- Suggested Reading: 
+
+- Weekly Notes: 
+  - 
+
+###### Class Overview:
+
+- Monday March 1: More covariance functions / model selection
+
+- Wednesday March 3: Spatial GLMS
+
+- Friday March 5: 
+
+---
 #### Course Description
 
 Statistical methods of spatial data analysis, stationary and nonstationary random fields, covariance structures, geostatistical models and analysis, spatial point process models and analysis, spatial lattice models and analysis. An emphasis will be placed on:
