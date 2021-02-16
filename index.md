@@ -129,7 +129,6 @@ Virtual Materials:
 - Suggested Reading: 
 
 - Weekly Notes: 
-  - 
 
 ###### Class Overview:
 
@@ -150,7 +149,6 @@ Virtual Materials:
 - Suggested Reading: 
 
 - Weekly Notes: 
-  - 
 
 ###### Class Overview:
 
