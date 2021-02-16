@@ -104,7 +104,7 @@ Virtual Materials:
 
 ##### Weekly Materials
 - Project 1: Introduction,  Research Question, and Data viz due end of day Monday February 22
-- HW 3 due end of day Monday February 22
+- [HW 3 due end of day Monday February 22](https://github.com/Stat534/homework_three/blob/main/HW3.md) ([Download Repo](https://classroom.github.com/a/RNzftvcT))
 
 - Suggested Reading: HMASD Ch.2 Basics of Point Referenced Models
 
