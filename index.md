@@ -104,7 +104,7 @@ Virtual Materials:
 
 ##### Weekly Materials
 - Project 1: Introduction,  Research Question, and Data viz due end of day Monday February 22
-- [HW 3 due end of day Monday February 22](https://github.com/Stat534/homework_three/blob/main/HW3.md) ([Download Repo](https://classroom.github.com/a/RNzftvcT))
+- [HW 3 due end of day Wednesday February 24](https://github.com/Stat534/homework_three/blob/main/HW3.md) ([Download Repo](https://classroom.github.com/a/RNzftvcT))
 
 - Suggested Reading: HMASD Ch.2 Basics of Point Referenced Models
 
@@ -116,9 +116,9 @@ Virtual Materials:
 - Monday February 15: __President's Day no class__ 
   - HW 2 Due
 
-- Wednesday February 17: Projections and Distance Calculations; Spatial data in R
+- Wednesday February 17: Projections and Distance Calculations
 
-- Friday February 19: Stationarity and Variograms
+- Friday February 19: Spatial data in R ([ggmap reference](https://github.com/dkahle/ggmap))
 
 ---
 
@@ -132,13 +132,14 @@ Virtual Materials:
 
 ###### Class Overview:
 
-- Monday February 22: Fitting variograms and covariance functions
+- Monday February 22: Stationarity and Variograms
   - Project 1: Introduction,  Research Question, and Data viz due end of day Monday February 22
+
+
+- Wednesday February 24: Fitting variograms and covariance functions
   - HW 3 due
 
-- Wednesday February 24: Spatial EDA
-
-- Friday February 26: Model Fitting, CV, Prediction
+- Friday February 26: Spatial EDA 
 
 ---
 
@@ -152,11 +153,11 @@ Virtual Materials:
 
 ###### Class Overview:
 
-- Monday March 1: More covariance functions / model selection
+- Monday March 1: Model Fitting, CV, Prediction
 
-- Wednesday March 3: Spatial GLMS
+- Wednesday March 3: More covariance functions / model selection
 
-- Friday March 5: 
+- Friday March 5: Spatial GLMS
 
 ---
 #### Course Description
