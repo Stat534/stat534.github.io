@@ -126,9 +126,10 @@ Virtual Materials:
 
 ##### Weekly Materials
 
-- Suggested Reading: 
+- Suggested Reading:  HMASD Ch.2 Basics of Point Referenced Models
 
-- Weekly Notes: 
+- Weekly Notes:  
+  - [PDF](https://github.com/Stat534/SpatialNotation/blob/main/Notation.pdf) ([RMD Source](https://raw.githubusercontent.com/Stat534/SpatialNotation/main/Notation.Rmd))
 
 ###### Class Overview:
 
