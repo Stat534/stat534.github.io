@@ -102,7 +102,7 @@ Virtual Materials:
 
 ---
 
-#### Week Six: 
+#### Week Six: Projections, Distance Calculations, and Spatial Graphics
 
 ##### Weekly Materials
 - Project 1: Introduction,  Research Question, and Data viz due end of day Monday February 22
@@ -124,14 +124,15 @@ Virtual Materials:
 
 ---
 
-#### Week Seven: 
+#### Week Seven: Spatial Statistics Fundamentals
 
 ##### Weekly Materials
 
 - Suggested Reading:  HMASD Ch.2 Basics of Point Referenced Models
 
 - Weekly Notes:  
-  - [PDF](https://github.com/Stat534/SpatialNotation/blob/main/Notation.pdf) ([RMD Source](https://raw.githubusercontent.com/Stat534/SpatialNotation/main/Notation.Rmd))
+  - [Spatial Notation and Variograms(PDF)](https://github.com/Stat534/SpatialNotation/blob/main/Notation.pdf) ([RMD Source](https://raw.githubusercontent.com/Stat534/SpatialNotation/main/Notation.Rmd))
+  - [Spatial EDA: Lecture (PDF)](https://github.com/Stat534/Spatial_EDA/blob/main/SpatialEDA.pdf) ([RMD Source](https://raw.githubusercontent.com/Stat534/Spatial_EDA/main/SpatialEDA.Rmd))
 
 ###### Class Overview:
 
@@ -142,11 +143,11 @@ Virtual Materials:
 - Wednesday February 24: Fitting variograms and covariance functions
   - HW 3 due
 
-- Friday February 26: Spatial EDA 
+- Friday February 26: Spatial EDA: Lecture
 
 ---
 
-#### Week Eight: 
+#### Week Eight: Fitting Geostatistical Models
 
 ##### Weekly Materials
 
@@ -154,15 +155,15 @@ Virtual Materials:
 
 - Weekly Notes: 
 
-- Project 1: Introduction,  Research Question, and Data viz + Data Analysis due end of day Friday March 5
+- Project 1: Introduction,  Research Question, and Data viz + Data Analysis due end of day Friday March 12
 
 - HW 4 due end of day Monday March 8
 
 ###### Class Overview:
 
-- Monday March 1: Model Fitting, CV, Prediction
+- Monday March 1: Spatial EDA and Model Fitting _interactive demo__
 
-- Wednesday March 3: More covariance functions / model selection
+- Wednesday March 3: CV, Prediction / model selection
 
 - Friday March 5: Spatial GLMS
 
@@ -170,7 +171,7 @@ Virtual Materials:
 
 ### Areal Data
 
-#### Week Nine: 
+#### Week Nine: Areal Data Intro
 
 ##### Weekly Materials
 
@@ -178,7 +179,6 @@ Virtual Materials:
 
 - Weekly Notes: 
 
-- Final Project due end of day March 15
 
 ###### Class Overview:
 
@@ -187,6 +187,137 @@ Virtual Materials:
 - Wednesday March 10: 
 
 - Friday March 12: 
+
+---
+
+#### Week Ten: 
+
+##### Weekly Materials
+
+- Suggested Reading: 
+
+- Weekly Notes: 
+
+- Final Project due end of day March 22
+
+###### Class Overview:
+
+- Monday March 15: 
+
+- Wednesday March 17: 
+
+- Friday March 19: 
+
+---
+
+#### Week Eleven: 
+
+##### Weekly Materials
+
+- Suggested Reading: 
+
+- Weekly Notes: 
+
+###### Class Overview:
+
+- Monday March 22: 
+
+- Wednesday March 24: 
+
+- Friday March 26: 
+
+---
+
+#### Week Twelve: 
+
+##### Weekly Materials
+
+- Suggested Reading: 
+
+- Weekly Notes: 
+
+###### Class Overview:
+
+- Monday March 29: 
+
+- Wednesday March 31: 
+
+- Friday April 2: __no class: University Day__
+
+---
+
+#### Week Thirteen: 
+
+##### Weekly Materials
+
+- Suggested Reading: 
+
+- Weekly Notes: 
+
+###### Class Overview:
+
+- Monday April 5: 
+
+- Wednesday April 7: 
+
+- Friday April 9: 
+
+---
+
+
+#### Week Fourteen: 
+
+##### Weekly Materials
+
+- Suggested Reading: 
+
+- Weekly Notes: 
+
+###### Class Overview:
+
+- Monday April 12: 
+
+- Wednesday April 14: 
+
+- Friday April 16: 
+
+---
+
+
+#### Week Fifteen: 
+
+##### Weekly Materials
+
+- Suggested Reading: 
+
+- Weekly Notes: 
+
+###### Class Overview:
+
+- Monday April 19: 
+
+- Wednesday April 21: 
+
+- Friday April 23: 
+
+---
+
+
+#### Week Sixteen: 
+
+##### Weekly Materials
+
+- Suggested Reading: 
+
+- Weekly Notes: 
+
+###### Class Overview:
+
+- Monday April 28: 
+
+- Wednesday April 28: 
+
+- Friday April 30: 
 
 ---
 #### Course Description
