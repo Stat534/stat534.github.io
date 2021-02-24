@@ -1,5 +1,7 @@
 ## Course Schedule
 
+### Point Referenced Data
+
 #### Week One: Introduction: Git, R Studio, and Spatial Data Visualization
 
 ###### Weekly Resources:
@@ -152,6 +154,10 @@ Virtual Materials:
 
 - Weekly Notes: 
 
+- Project 1: Introduction,  Research Question, and Data viz + Data Analysis due end of day Friday March 5
+
+- HW 4 due end of day Monday March 8
+
 ###### Class Overview:
 
 - Monday March 1: Model Fitting, CV, Prediction
@@ -159,6 +165,28 @@ Virtual Materials:
 - Wednesday March 3: More covariance functions / model selection
 
 - Friday March 5: Spatial GLMS
+
+---
+
+### Areal Data
+
+#### Week Nine: 
+
+##### Weekly Materials
+
+- Suggested Reading: 
+
+- Weekly Notes: 
+
+- Final Project due end of day March 15
+
+###### Class Overview:
+
+- Monday March 8: 
+
+- Wednesday March 10: 
+
+- Friday March 12: 
 
 ---
 #### Course Description
