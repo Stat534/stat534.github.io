@@ -157,7 +157,7 @@ Virtual Materials:
 
 - Project 1: Introduction,  Research Question, and Data viz + Data Analysis due end of day Friday March 12
 
-- HW 4 due end of day Monday March 8
+- [HW 4 due end of day Monday March 8](https://github.com/Stat534/homework_four/blob/main/HW4.md) ([Download Repo](https://classroom.github.com/a/lfKoEq5y))
 
 ###### Class Overview:
 
