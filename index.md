@@ -161,11 +161,11 @@ Virtual Materials:
 
 ###### Class Overview:
 
-- Monday March 1: Spatial EDA and Model Fitting _interactive demo__
+- Monday March 1: Spatial EDA 
 
-- Wednesday March 3: CV, Prediction / model selection
+- Wednesday March 3: Spatial EDA _[interactive demo](https://stat534.github.io/Spatial_EDA/)_ ([Download Repo](https://classroom.github.com/a/psZzmMIk)) 
 
-- Friday March 5: Spatial GLMS
+- Friday March 5: CV, Prediction / model selection
 
 ---
 
@@ -182,7 +182,7 @@ Virtual Materials:
 
 ###### Class Overview:
 
-- Monday March 8: 
+- Monday March 8: Spatial GLMS
 
 - Wednesday March 10: 
 
