@@ -165,13 +165,12 @@ Virtual Materials:
 
 - Wednesday March 3: Spatial EDA _[interactive demo](https://stat534.github.io/Spatial_EDA/)_ ([Download Repo](https://classroom.github.com/a/psZzmMIk)) 
 
-- Friday March 5: CV, Prediction / model selection
+- Friday March 5: Spatial EDA _[interactive demo] + Other model fitting options_
 
 ---
 
-### Areal Data
 
-#### Week Nine: Areal Data Intro
+#### Week Nine: Fitting Geostatistical Models, part 2
 
 ##### Weekly Materials
 
@@ -182,15 +181,17 @@ Virtual Materials:
 
 ###### Class Overview:
 
-- Monday March 8: Spatial GLMS
+- Monday March 8: CV, Prediction / model selection
 
-- Wednesday March 10: 
+- Wednesday March 10: Anisotropy + other covariance structure
 
-- Friday March 12: 
+- Friday March 12: Spatial GLMS
 
 ---
 
-#### Week Ten: 
+### Areal Data
+
+#### Week Ten: Areal Data Intro
 
 ##### Weekly Materials
 
