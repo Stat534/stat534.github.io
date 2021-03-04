@@ -165,7 +165,7 @@ Virtual Materials:
 
 - Wednesday March 3: Spatial EDA _[interactive demo](https://stat534.github.io/Spatial_EDA/)_ ([Download Repo](https://classroom.github.com/a/psZzmMIk)) 
 
-- Friday March 5: Spatial EDA _[interactive demo] + Other model fitting options_
+- Friday March 5: Spatial EDA _[interactive demo]_ + [Other model fitting options](https://github.com/Stat534/Other_Software/blob/main/Model-Fitting-Demo.md) ([RMD Source](https://raw.githubusercontent.com/Stat534/Other_Software/main/Model%20Fitting%20Demo.Rmd))
 
 ---
 
