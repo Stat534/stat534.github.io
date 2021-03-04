@@ -151,9 +151,6 @@ Virtual Materials:
 
 ##### Weekly Materials
 
-- Suggested Reading: 
-
-- Weekly Notes: 
 
 - Project 1: Introduction,  Research Question, and Data viz + Data Analysis due end of day Monday March 15
 
@@ -174,9 +171,10 @@ Virtual Materials:
 
 ##### Weekly Materials
 
-- Suggested Reading: 
-
 - Weekly Notes: 
+  - CV + model selection  
+  - [Anisotropy + other covariance structure](https://github.com/Stat534/Anisotropy/blob/main/Covariance_Anisotropy.pdf) ([RMD Source](https://raw.githubusercontent.com/Stat534/Anisotropy/main/Covariance_Anisotropy.Rmd))
+  - Spatial GLMS
 
 
 ###### Class Overview:
