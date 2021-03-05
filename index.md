@@ -172,7 +172,7 @@ Virtual Materials:
 ##### Weekly Materials
 
 - Weekly Notes: 
-  - [Spatial prediction / model comparison](https://github.com/Stat534/spatial_prediction/blob/main/spatial_prediction.pdf) ([RMD Source(https://raw.githubusercontent.com/Stat534/spatial_prediction/main/spatial_prediction.Rmd))
+  - [Spatial prediction / model comparison](https://github.com/Stat534/spatial_prediction/blob/main/spatial_prediction.pdf) ([RMD Source](https://raw.githubusercontent.com/Stat534/spatial_prediction/main/spatial_prediction.Rmd))
   - [Anisotropy + other covariance structure](https://github.com/Stat534/Anisotropy/blob/main/Covariance_Anisotropy.pdf) ([RMD Source](https://raw.githubusercontent.com/Stat534/Anisotropy/main/Covariance_Anisotropy.Rmd))
   - Spatial GLMS
 
