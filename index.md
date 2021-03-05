@@ -172,14 +172,14 @@ Virtual Materials:
 ##### Weekly Materials
 
 - Weekly Notes: 
-  - CV + model selection  
+  - [Spatial prediction / model comparison](https://github.com/Stat534/spatial_prediction/blob/main/spatial_prediction.pdf) ([RMD Source(https://raw.githubusercontent.com/Stat534/spatial_prediction/main/spatial_prediction.Rmd))
   - [Anisotropy + other covariance structure](https://github.com/Stat534/Anisotropy/blob/main/Covariance_Anisotropy.pdf) ([RMD Source](https://raw.githubusercontent.com/Stat534/Anisotropy/main/Covariance_Anisotropy.Rmd))
   - Spatial GLMS
 
 
 ###### Class Overview:
 
-- Monday March 8: CV, Prediction / model selection
+- Monday March 8: Spatial prediction / model comparison
 
 - Wednesday March 10: Anisotropy + other covariance structure
 
