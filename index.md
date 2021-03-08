@@ -116,7 +116,7 @@ Virtual Materials:
 ###### Class Overview:
 
 - Monday February 15: __President's Day no class__ 
-  - HW 2 Due
+  - [HW 2 due](https://github.com/Stat534/homework2/blob/main/HW2.md) ([Download Repo](https://classroom.github.com/a/JE-jzwTJ))
 
 - Wednesday February 17: Projections and Distance Calculations
 
@@ -141,7 +141,7 @@ Virtual Materials:
 
 
 - Wednesday February 24: Fitting variograms and covariance functions
-  - HW 3 due
+  - [HW 3 due](https://github.com/Stat534/homework_three/blob/main/HW3.md) ([Download Repo](https://classroom.github.com/a/RNzftvcT))
 
 - Friday February 26: Spatial EDA: Lecture
 
@@ -182,6 +182,7 @@ Virtual Materials:
 - Monday March 8: Spatial prediction / model comparison
 
 - Wednesday March 10: Anisotropy + other covariance structure
+  - [HW 4 due](https://github.com/Stat534/homework_four/blob/main/HW4.md) ([Download Repo](https://classroom.github.com/a/lfKoEq5y))   
 
 - Friday March 12: Spatial GLMS
 
@@ -201,7 +202,8 @@ Virtual Materials:
 
 ###### Class Overview:
 
-- Monday March 15: 
+- Monday March 15: Areal Data Intro - Choropleths
+  - Project 1: Introduction,  Research Question, and Data viz + Data Analysis due (Update existing repo)
 
 - Wednesday March 17: 
 
@@ -219,7 +221,9 @@ Virtual Materials:
 
 ###### Class Overview:
 
-- Monday March 22: 
+- Monday March 22:
+  - Project 1: due (Update existing repo)
+    
 
 - Wednesday March 24: 
 
@@ -237,7 +241,8 @@ Virtual Materials:
 
 ###### Class Overview:
 
-- Monday March 29: 
+- Monday March 29:
+  - HW 5 due    
 
 - Wednesday March 31: 
 
@@ -255,7 +260,8 @@ Virtual Materials:
 
 ###### Class Overview:
 
-- Monday April 5: 
+- Monday April 5:
+  - HW 6 due   
 
 - Wednesday April 7: 
 
@@ -274,7 +280,9 @@ Virtual Materials:
 
 ###### Class Overview:
 
-- Monday April 12: 
+- Monday April 12:
+  - HW 7 due   
+ 
 
 - Wednesday April 14: 
 
@@ -296,6 +304,7 @@ Virtual Materials:
 - Monday April 19: 
 
 - Wednesday April 21: 
+  - HW 8 due   
 
 - Friday April 23: 
 
@@ -317,6 +326,7 @@ Virtual Materials:
 - Wednesday April 28: 
 
 - Friday April 30: 
+  - Project 2 due  
 
 ---
 #### Course Description
