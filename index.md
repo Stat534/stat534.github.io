@@ -174,7 +174,7 @@ Virtual Materials:
 - Weekly Notes: 
   - [Spatial prediction / model comparison](https://github.com/Stat534/spatial_prediction/blob/main/spatial_prediction.pdf) ([RMD Source](https://raw.githubusercontent.com/Stat534/spatial_prediction/main/spatial_prediction.Rmd))
   - [Anisotropy + other covariance structure](https://github.com/Stat534/Anisotropy/blob/main/Covariance_Anisotropy.pdf) ([RMD Source](https://raw.githubusercontent.com/Stat534/Anisotropy/main/Covariance_Anisotropy.Rmd))
-  - Spatial GLMS
+  - [Spatial GLMS](https://github.com/Stat534/spatial_glms/blob/main/spatial_glms.pdf)
 
 
 ###### Class Overview:
@@ -202,10 +202,10 @@ Virtual Materials:
 
 ###### Class Overview:
 
-- Monday March 15: Areal Data Intro - Choropleths
+- Monday March 15: Spatial GLMS _virtual demo_
   - Project 1: Introduction,  Research Question, and Data viz + Data Analysis due (Update existing repo)
 
-- Wednesday March 17: 
+- Wednesday March 17: Areal Data Intro - Choropleths
 
 - Friday March 19: 
 
