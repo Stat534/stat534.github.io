@@ -202,7 +202,9 @@ Virtual Materials:
 
 ###### Class Overview:
 
-- Monday March 15: Spatial GLMS _virtual demo_
+- Monday March 15: Spatial GLMS 
+  - [GLMs Video (watch first)](https://montana.techsmithrelay.com/clfE)
+  - [Spatial GLMs Video](https://montana.techsmithrelay.com/EGuG)
   - Project 1: Introduction,  Research Question, and Data viz + Data Analysis due (Update existing repo)
 
 - Wednesday March 17: Areal Data Intro - Choropleths
