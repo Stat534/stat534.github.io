@@ -179,12 +179,12 @@ Virtual Materials:
 
 ###### Class Overview:
 
-- Monday March 8: Spatial prediction / model comparison
+- Monday March 8: Anisotropy + other covariance structure
 
-- Wednesday March 10: Anisotropy + other covariance structure
+- Wednesday March 10: Spatial prediction / model comparison
   - [HW 4 due](https://github.com/Stat534/homework_four/blob/main/HW4.md) ([Download Repo](https://classroom.github.com/a/lfKoEq5y))   
 
-- Friday March 12: Spatial GLMS
+- Friday March 12: Spatial prediction / model comparison
 
 ---
 
@@ -207,9 +207,9 @@ Virtual Materials:
   - [Spatial GLMs Video](https://montana.techsmithrelay.com/EGuG)
   - Project 1: Introduction,  Research Question, and Data viz + Data Analysis due (Update existing repo)
 
-- Wednesday March 17: Areal Data Intro - Choropleths
+- Wednesday March 17: Spatial GLMs __interactive demo__
 
-- Friday March 19: 
+- Friday March 19: Areal Data Intro - Choropleths
 
 ---
 
