@@ -196,7 +196,7 @@ Virtual Materials:
 
 - Suggested Reading: 
 
-- Weekly Notes: 
+- Weekly Notes: [Spatial GLMs](https://github.com/Stat534/spatial_glms/blob/main/spatial_glms.pdf) ([RMD Source](https://raw.githubusercontent.com/Stat534/spatial_glms/main/spatial_glms.Rmd))
 
 - Final Project due end of day March 22
 
