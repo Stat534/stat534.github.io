@@ -190,13 +190,15 @@ Virtual Materials:
 
 ### Areal Data
 
-#### Week Ten: Areal Data Intro
+#### Week Ten: Spatial GLMS / Areal Data Intro
 
 ##### Weekly Materials
 
 - Suggested Reading: 
 
-- Weekly Notes: [Spatial GLMs](https://github.com/Stat534/spatial_glms/blob/main/spatial_glms.pdf) ([RMD Source](https://raw.githubusercontent.com/Stat534/spatial_glms/main/spatial_glms.Rmd))
+- Weekly Notes: 
+  - [Spatial GLMs](https://github.com/Stat534/spatial_glms/blob/main/spatial_glms.pdf) ([RMD Source](https://raw.githubusercontent.com/Stat534/spatial_glms/main/spatial_glms.Rmd))
+  - [Areal Data Intro](https://github.com/Stat534/Areal_Intro/blob/main/areal_data.pdf) ([RMD Source](https://raw.githubusercontent.com/Stat534/Areal_Intro/main/areal_data.Rmd))
 
 - Final Project due end of day March 22
 
@@ -209,11 +211,11 @@ Virtual Materials:
 
 - Wednesday March 17: Spatial GLMs __interactive demo__
 
-- Friday March 19: Areal Data Intro - Choropleths
+- Friday March 19: Areal Data Intro 
 
 ---
 
-#### Week Eleven: 
+#### Week Eleven: Areal Data 
 
 ##### Weekly Materials
 
