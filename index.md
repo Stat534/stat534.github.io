@@ -200,7 +200,7 @@ Virtual Materials:
   - [Spatial GLMs](https://github.com/Stat534/spatial_glms/blob/main/spatial_glms.pdf) ([RMD Source](https://raw.githubusercontent.com/Stat534/spatial_glms/main/spatial_glms.Rmd))
   - [Areal Data Intro](https://github.com/Stat534/Areal_Intro/blob/main/areal_data.pdf) ([RMD Source](https://raw.githubusercontent.com/Stat534/Areal_Intro/main/areal_data.Rmd))
 
-- Final Project due end of day March 22
+- Final Project due end of day March 26
 
 ###### Class Overview:
 
@@ -226,12 +226,11 @@ Virtual Materials:
 ###### Class Overview:
 
 - Monday March 22:
-  - Project 1: due (Update existing repo)
     
-
 - Wednesday March 24: 
 
 - Friday March 26: 
+  - Project 1: due (Update existing repo)
 
 ---
 
