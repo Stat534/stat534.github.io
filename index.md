@@ -222,6 +222,7 @@ Virtual Materials:
 - Suggested Reading: 
 
 - Weekly Notes: 
+  - [Areal Data Association](https://github.com/Stat534/areal_association/blob/main/areal_association.pdf) ([RMD Source](https://raw.githubusercontent.com/Stat534/areal_association/main/areal_association.Rmd))
 
 ###### Class Overview:
 
