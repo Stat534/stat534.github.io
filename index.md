@@ -215,7 +215,7 @@ Virtual Materials:
 
 ---
 
-#### Week Eleven: Areal Data 
+#### Week Eleven: Areal Data: Intro 
 
 ##### Weekly Materials
 
@@ -223,6 +223,7 @@ Virtual Materials:
 
 - Weekly Notes: 
   - [Areal Data Association](https://github.com/Stat534/areal_association/blob/main/areal_association.pdf) ([RMD Source](https://raw.githubusercontent.com/Stat534/areal_association/main/areal_association.Rmd))
+  - [Areal Data Modeling: Intro](https://github.com/Stat534/areal_modeling/blob/main/areal_modeling.pdf) ([RMD Source](https://raw.githubusercontent.com/Stat534/areal_modeling/main/areal_modeling.Rmd))
 
 ###### Class Overview:
 
@@ -246,7 +247,6 @@ Virtual Materials:
 ###### Class Overview:
 
 - Monday March 29:
-  - HW 5 due    
 
 - Wednesday March 31: 
 
