@@ -194,8 +194,6 @@ Virtual Materials:
 
 ##### Weekly Materials
 
-- Suggested Reading: 
-
 - Weekly Notes: 
   - [Spatial GLMs](https://github.com/Stat534/spatial_glms/blob/main/spatial_glms.pdf) ([RMD Source](https://raw.githubusercontent.com/Stat534/spatial_glms/main/spatial_glms.Rmd))
   - [Areal Data Intro](https://github.com/Stat534/Areal_Intro/blob/main/areal_data.pdf) ([RMD Source](https://raw.githubusercontent.com/Stat534/Areal_Intro/main/areal_data.Rmd))
@@ -219,7 +217,7 @@ Virtual Materials:
 
 ##### Weekly Materials
 
-- Suggested Reading: 
+- Suggested Reading: [Areal Models in Stan](https://mc-stan.org/users/documentation/case-studies/icar_stan.html)
 
 - Weekly Notes: 
   - [Areal Data Association](https://github.com/Stat534/areal_association/blob/main/areal_association.pdf) ([RMD Source](https://raw.githubusercontent.com/Stat534/areal_association/main/areal_association.Rmd))
