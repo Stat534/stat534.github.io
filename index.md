@@ -217,11 +217,11 @@ Virtual Materials:
 
 ##### Weekly Materials
 
-- Suggested Reading: [Areal Models in Stan](https://mc-stan.org/users/documentation/case-studies/icar_stan.html)
 
 - Weekly Notes: 
   - [Areal Data Association](https://github.com/Stat534/areal_association/blob/main/areal_association.pdf) ([RMD Source](https://raw.githubusercontent.com/Stat534/areal_association/main/areal_association.Rmd))
   - [Areal Data Modeling: Intro](https://github.com/Stat534/areal_modeling/blob/main/areal_modeling.pdf) ([RMD Source](https://raw.githubusercontent.com/Stat534/areal_modeling/main/areal_modeling.Rmd))
+  - [Spatial Autoregressive Models](https://github.com/Stat534/areal_modeling/blob/main/ar_models.pdf) ([RMD Source](https://raw.githubusercontent.com/Stat534/areal_modeling/main/ar_models.Rmd))
 
 ###### Class Overview:
 
@@ -234,11 +234,11 @@ Virtual Materials:
 
 ---
 
-#### Week Twelve: 
+#### Week Twelve: Areal Data Modeling
 
 ##### Weekly Materials
 
-- Suggested Reading: 
+- Suggested Reading: [Areal Models in Stan](https://mc-stan.org/users/documentation/case-studies/icar_stan.html)
 
 - Weekly Notes: 
 
@@ -252,7 +252,7 @@ Virtual Materials:
 
 ---
 
-#### Week Thirteen: 
+#### Week Thirteen: Point Process Data
 
 ##### Weekly Materials
 
