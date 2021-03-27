@@ -237,8 +237,9 @@ Virtual Materials:
 
 ##### Weekly Materials
 
-- Suggested Reading: [Areal Models in Stan](https://mc-stan.org/users/documentation/case-studies/icar_stan.html)
-
+- Suggested Reading: 
+  - [Areal Models in Stan](https://mc-stan.org/users/documentation/case-studies/icar_stan.html)
+  - _optional_ [Spatial autoregressive models for statistical inference from ecological data](https://eprints.qut.edu.au/115891/1/115891.pdf)
 - Weekly Notes: 
    - [Spatial Autoregressive Models](https://github.com/Stat534/areal_modeling/blob/main/ar_models.pdf) ([RMD Source](https://raw.githubusercontent.com/Stat534/areal_modeling/main/ar_models.Rmd))
 
