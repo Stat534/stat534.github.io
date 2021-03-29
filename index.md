@@ -265,7 +265,7 @@ Virtual Materials:
 ###### Class Overview:
 
 - Monday April 5:
-  - HW 6 due   
+  - [HW 5 due Tuesday April 6](https://github.com/Stat534/homework_five/blob/main/HW5.md) ([Download Repo](https://classroom.github.com/a/xdy_T8lj)
 
 - Wednesday April 7: 
 
@@ -284,9 +284,7 @@ Virtual Materials:
 
 ###### Class Overview:
 
-- Monday April 12:
-  - HW 7 due   
- 
+- Monday April 12: 
 
 - Wednesday April 14: 
 
@@ -308,7 +306,6 @@ Virtual Materials:
 - Monday April 19: 
 
 - Wednesday April 21: 
-  - HW 8 due   
 
 - Friday April 23: 
 
