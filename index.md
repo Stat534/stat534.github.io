@@ -246,9 +246,9 @@ Virtual Materials:
 
 ###### Class Overview:
 
-- Monday March 29:
+- Monday March 29: [_interactive demo: fitting areal data models, part 1_](https://stat534.github.io/areal_demo/) ([Download Repo](https://classroom.github.com/a/E_HQB7Zf))
 
-- Wednesday March 31: _interactive demo: fitting areal data models_
+- Wednesday March 31: 
 
 - Friday April 2: __no class: University Day__
 
