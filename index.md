@@ -242,13 +242,13 @@ Virtual Materials:
   - _optional_ [Spatial autoregressive models for statistical inference from ecological data](https://eprints.qut.edu.au/115891/1/115891.pdf)
 - Weekly Notes: 
    - [Spatial Autoregressive Models](https://github.com/Stat534/areal_modeling/blob/main/ar_models.pdf) ([RMD Source](https://raw.githubusercontent.com/Stat534/areal_modeling/main/ar_models.Rmd))
-
+   - [Fitting AR Models](https://github.com/Stat534/areal_demo/blob/main/part2.pdf)
 
 ###### Class Overview:
 
 - Monday March 29: [_interactive demo: fitting areal data models, part 1_](https://stat534.github.io/areal_demo/) ([Download Repo](https://classroom.github.com/a/E_HQB7Zf))
 
-- Wednesday March 31: 
+- Wednesday March 31:
 
 - Friday April 2: __no class: University Day__
 
