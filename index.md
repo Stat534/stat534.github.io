@@ -258,9 +258,10 @@ Virtual Materials:
 
 ##### Weekly Materials
 
-- Suggested Reading: 
+- Suggested Reading: 8.1 - 8.3
 
-- Weekly Notes: 
+- Weekly Notes:
+  - [Point Process Intro](https://github.com/Stat534/pp_intro/blob/main/PP_Intro.pdf) ([RMD Source](https://raw.githubusercontent.com/Stat534/pp_intro/main/PP_Intro.Rmd))
 
 ###### Class Overview:
 
