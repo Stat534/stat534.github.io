@@ -266,7 +266,7 @@ Virtual Materials:
 ###### Class Overview:
 
 - Monday April 5:
-  - [HW 5 due Tuesday April 6](https://github.com/Stat534/homework_five/blob/main/HW5.md) ([Download Repo](https://classroom.github.com/a/xdy_T8lj)
+  - [HW 5 due Tuesday April 6](https://github.com/Stat534/homework_five/blob/main/HW5.md) ([Download Repo](https://classroom.github.com/a/xdy_T8lj))
 
 - Wednesday April 7: 
 
@@ -286,6 +286,7 @@ Virtual Materials:
 ###### Class Overview:
 
 - Monday April 12: 
+  - [HW 6 due Tuesday April 13](https://github.com/Stat534/homework_six/blob/main/HW6.md) ([Download Repo](https://classroom.github.com/a/kmJKxaXT))
 
 - Wednesday April 14: 
 
