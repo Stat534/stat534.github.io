@@ -271,7 +271,7 @@ Virtual Materials:
 
 - Wednesday April 7: 
 
-- Friday April 9: 
+- Friday April 9: __asynchronous virtual class__
 
 ---
 
@@ -311,7 +311,7 @@ Virtual Materials:
 - Wednesday April 21: 
 
 - Friday April 23: 
-
+  - Project 2 video due  
 ---
 
 
@@ -330,7 +330,8 @@ Virtual Materials:
 - Wednesday April 28: 
 
 - Friday April 30: 
-  - Project 2 due  
+  - Project 2 paper due
+  - HW X due (comments / questions on other videos)  
 
 ---
 #### Course Description
