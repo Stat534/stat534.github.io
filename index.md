@@ -258,7 +258,9 @@ Virtual Materials:
 
 ##### Weekly Materials
 
-- Suggested Reading: 8.1 - 8.3
+- Suggested Reading: 
+  - HMASD 8.1 - 8.3 
+  - [spatstat overview](https://cran.r-project.org/web/packages/spatstat/vignettes/getstart.pdf)
 
 - Weekly Notes:
   - [Point Process Intro](https://github.com/Stat534/pp_intro/blob/main/PP_Intro.pdf) ([RMD Source](https://raw.githubusercontent.com/Stat534/pp_intro/main/PP_Intro.Rmd))
@@ -271,7 +273,7 @@ Virtual Materials:
 
 - Wednesday April 7: 
 
-- Friday April 9: __asynchronous virtual class__
+- Friday April 9: __asynchronous virtual class: spatstat overview__
 
 ---
 
