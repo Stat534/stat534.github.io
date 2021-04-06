@@ -274,6 +274,7 @@ Virtual Materials:
 - Wednesday April 7: 
 
 - Friday April 9: __asynchronous virtual class: spatstat overview__
+  - [spatstat intro](https://github.com/Stat534/spatstat_intro/blob/main/spatstat_demo.md) ([Video Overview](https://montana.techsmithrelay.com/xbDF)) 
 
 ---
 
