@@ -264,7 +264,6 @@ Virtual Materials:
 
 - Weekly Notes:
   - [Point Process Intro](https://github.com/Stat534/pp_intro/blob/main/PP_Intro.pdf) ([RMD Source](https://raw.githubusercontent.com/Stat534/pp_intro/main/PP_Intro.Rmd))
-  - [Point Process Test Statistics](https://github.com/Stat534/pp_intro/blob/main/PP_Hyp.pdf) ([RMD Source](https://raw.githubusercontent.com/Stat534/pp_intro/main/PP_Hyp.Rmd))
 
 ###### Class Overview:
 
@@ -286,6 +285,8 @@ Virtual Materials:
 - Suggested Reading: 
 
 - Weekly Notes: 
+  - [Point Process Test Statistics](https://github.com/Stat534/pp_intro/blob/main/PP_Hyp.pdf) ([RMD Source](https://raw.githubusercontent.com/Stat534/pp_intro/main/PP_Hyp.Rmd))
+ 
 
 ###### Class Overview:
 
@@ -313,8 +314,8 @@ Virtual Materials:
 
 - Wednesday April 21: 
 
-- Friday April 23: 
-  - Project 2 video due  
+- Friday April 23: Project 2 video due  
+
 ---
 
 
