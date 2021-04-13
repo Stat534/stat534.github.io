@@ -310,7 +310,7 @@ Virtual Materials:
 
 ###### Class Overview:
 
-- Monday April 19: 
+- Monday April 19: Matt Heaton Seminar (see Webex connection info on teams)  
 
 - Wednesday April 21: 
 
