@@ -286,6 +286,7 @@ Virtual Materials:
 
 - Weekly Notes: 
   - [Point Process Test Statistics](https://github.com/Stat534/pp_intro/blob/main/PP_Hyp.pdf) ([RMD Source](https://raw.githubusercontent.com/Stat534/pp_intro/main/PP_Hyp.Rmd))
+  - [K statistic](https://github.com/Stat534/pp_intro/blob/main/k.pdf) ([RMD Source](https://raw.githubusercontent.com/Stat534/pp_intro/main/k.Rmd))
  
 
 ###### Class Overview:
