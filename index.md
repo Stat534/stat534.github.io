@@ -287,6 +287,7 @@ Virtual Materials:
 - Weekly Notes: 
   - [Point Process Test Statistics](https://github.com/Stat534/pp_intro/blob/main/PP_Hyp.pdf) ([RMD Source](https://raw.githubusercontent.com/Stat534/pp_intro/main/PP_Hyp.Rmd))
   - [K statistic](https://github.com/Stat534/pp_intro/blob/main/k.pdf) ([RMD Source](https://raw.githubusercontent.com/Stat534/pp_intro/main/k.Rmd))
+  -  [NHPP](https://github.com/Stat534/pp_modeling/blob/main/NHPP.pdf) ([RMD Source](https://raw.githubusercontent.com/Stat534/pp_modeling/main/NHPP.Rmd))
  
 
 ###### Class Overview:
@@ -311,7 +312,8 @@ Virtual Materials:
 
 ###### Class Overview:
 
-- Monday April 19: Matt Heaton Seminar (see Webex connection info on teams)  
+- Monday April 19: Matt Heaton Seminar (see Webex connection info on teams)
+  - [Spatial and covariate-varying relationships among dominant tree species in Utah](https://doi.org/10.1007/s10651-020-00460-6)
 
 - Wednesday April 21: 
 
