@@ -317,7 +317,7 @@ Virtual Materials:
 
 - Wednesday April 21: 
 
-- Friday April 23: Project 2 video due  
+- Friday April 23: Project 2 video due  ([Download Project 2 Repo](https://classroom.github.com/a/q7RPIhJi))
 
 ---
 
@@ -337,7 +337,7 @@ Virtual Materials:
 - Wednesday April 28: 
 
 - Friday April 30: 
-  - Project 2 paper due
+  - Project 2 paper due ([Download Project 2 Repo](https://classroom.github.com/a/q7RPIhJi))
   - HW X due (comments / questions on other videos)  
 
 ---
