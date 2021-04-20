@@ -332,7 +332,7 @@ Virtual Materials:
 ###### Class Overview:
 
 - Monday April 26: 
-  -  [HW 7 due Tuesday April 27](https://github.com/Stat534/homework_six/blob/main/HW7.md) ([Download Repo](https://classroom.github.com/a/Sqe12a3P))
+  -  [HW 7 due Tuesday April 27](https://github.com/Stat534/homework_seven/blob/main/HW7.md) ([Download Repo](https://classroom.github.com/a/Sqe12a3P))
 
 - Wednesday April 28: 
 
