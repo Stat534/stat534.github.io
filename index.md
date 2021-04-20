@@ -331,13 +331,14 @@ Virtual Materials:
 
 ###### Class Overview:
 
-- Monday April 28: 
+- Monday April 26: 
+  -  [HW 7 due Tuesday April 27](https://github.com/Stat534/homework_six/blob/main/HW7.md) ([Download Repo](https://classroom.github.com/a/Sqe12a3P))
 
 - Wednesday April 28: 
 
 - Friday April 30: 
   - Project 2 paper due ([Download Project 2 Repo](https://classroom.github.com/a/q7RPIhJi))
-  - HW X due (comments / questions on other videos)  
+  - HW 8 due (5 points: post comments / questions on at least two other student's videos)  
 
 ---
 #### Course Description
