@@ -306,9 +306,8 @@ Virtual Materials:
 
 ##### Weekly Materials
 
-- Suggested Reading: 
-
 - Weekly Notes: 
+  - [PP Modeling](https://github.com/Stat534/pp_modeling/blob/main/spatstat2.pdf) ([RMD Source Code](https://raw.githubusercontent.com/Stat534/pp_modeling/main/spatstat2.Rmd)) 
 
 ###### Class Overview:
 
