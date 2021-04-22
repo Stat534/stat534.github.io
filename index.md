@@ -308,6 +308,7 @@ Virtual Materials:
 
 - Weekly Notes: 
   - [PP Modeling](https://github.com/Stat534/pp_modeling/blob/main/spatstat2.pdf) ([RMD Source Code](https://raw.githubusercontent.com/Stat534/pp_modeling/main/spatstat2.Rmd)) 
+  - [LGCP Demo](https://github.com/Stat534/pp_modeling/blob/main/lgcp_demo.md)
 
 ###### Class Overview:
 
@@ -322,12 +323,7 @@ Virtual Materials:
 
 
 #### Week Sixteen: 
-
-##### Weekly Materials
-
-- Suggested Reading: 
-
-- Weekly Notes: 
+ 
 
 ###### Class Overview:
 
