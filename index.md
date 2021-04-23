@@ -317,7 +317,8 @@ Virtual Materials:
 
 - Wednesday April 21: 
 
-- Friday April 23: Project 2 video due  ([Download Project 2 Repo](https://classroom.github.com/a/q7RPIhJi))
+- Friday April 23: 
+  - Project 2 video due Saturday April 24: ([Download Project 2 Repo](https://classroom.github.com/a/q7RPIhJi))
 
 ---
 
@@ -327,14 +328,14 @@ Virtual Materials:
 
 ###### Class Overview:
 
-- Monday April 26: 
+- Monday April 26: _Virtual Office Hours_
   -  [HW 7 due Tuesday April 27](https://github.com/Stat534/homework_seven/blob/main/HW7.md) ([Download Repo](https://classroom.github.com/a/Sqe12a3P))
 
-- Wednesday April 28: 
+- Wednesday April 28: _Virtual Office Hours_
 
-- Friday April 30: 
+- Friday April 30: _Virtual Office Hours_
   - Project 2 paper due ([Download Project 2 Repo](https://classroom.github.com/a/q7RPIhJi))
-  - HW 8 due (5 points: post comments / questions on at least two other student's videos)  
+  - HW 8 due (8 points: post comments / questions on at least two other student's videos)  
 
 ---
 #### Course Description
