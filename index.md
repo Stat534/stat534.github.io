@@ -8,8 +8,6 @@ Statistical methods of spatial data analysis, stationary and nonstationary rando
 
 3. Using statistical software and either Bayesian or classical statistical techniques to analyze spatial point process, geostatistical, and areal data structures, and
 
-4. Implementing version control tools, such as git and github, on spatial data analyses.
-
 
 ## Learning Outcomes:
 At the end of the course students will understand
@@ -36,21 +34,15 @@ A downloadable PDF of the course syllabus is available: [Download PDF Syllabus](
 - Animal Movement: Statistical Models for Telemetry Data, by Hooten, Johnson, McClintock, and Morales. _Optional_
 
 ## Additional Resources
-Analysis, data visualization, and version control procedures will be implemented with:
-
-- R / R Studio
-- Git / Github
+Analysis and data visualization will be implemented with R
 
 ## Course Policies
 
-
 #### Grading Policy
 
-- **50%** of your grade will be determined by homework assignments. Collaboration is encouraged on homework assignments, but everyone should complete their own assignments. 
+- **25%** of your grade will be determined by homework assignments. Collaboration is encouraged on homework assignments, but everyone should complete their own assignments. 
 
-- **25%** of your grade will be determined by a midterm project.
-
-- **25%** of your grade will be determined by a final project.
+- **75%** of your grade will be determined by a series of three exams and applied projects.
 
 
 #### Collaboration
@@ -65,65 +57,39 @@ Section 420 of the Student Conduct Code describes academic misconduct as includi
 
 Federal law mandates the provision of services at the university-level to qualified students with disabilities. If you have a documented disability for which you are or may be requesting an accommodation(s), you are encouraged to contact the Office of Disability Services as soon as possible.
 
-#### Masks
-
-WEARING MASKS IN CLASSROOMS IS REQUIRED Face coverings that cover the mouth and nose are required in all indoor spaces and all enclosed or partially enclosed outdoor spaces. MSU requires all students to wear face masks or cloth face coverings in classrooms, laboratories and other similar spaces where in-person instruction occurs. MSU requires the wearing of masks in physical classrooms to help mitigate the transmission of SARS-CoV-2, which causes COVID-19. The MSU community views the adoption of these practices as a mark of good citizenship and respectful care of fellow classmates, faculty, and staff.
-
-The complete details about MSU’s mask requirement can be found at https://www.montana.edu/health/coronavirus/index.html.
-
-These requirements from the Office of the Commissioner of Higher Education are detailed in the MUS Healthy Fall 2020 Guidelines, Appendix B.
-
-For more information: https://www.montana.edu/health/coronavirus/prevention/index.html
-
-Compliance with the face-covering protocol is expected. If a you do not comply with a classroom rule, you may be requested to leave class. Section 460.00 of the MSU Code of Student Conduct covers “disruptive student behavior.”
-
-#### Health-Related Class Absences
-
-Please evaluate your own health status regularly and refrain from attending class and other on-campus events if you are ill. MSU students who miss class due to illness will be given opportunities to access course materials online. You are encouraged to seek appropriate medical attention for treatment of illness. In the event of contagious illness, please do not come to class or to campus to turn in work. Instead notify me by email about your absence as soon as practical, so that accommodations can be made. Please note that documentation (a Doctor’s note) for medical excuses is not required. MSU University Health Partners - as part their commitment to maintain patient confidentiality, to encourage more appropriate use of healthcare resources, and to support meaningful dialogue between instructors and students - does not provide such documentation.
-
-#### Course Communication
-
-In the event that one or more students and/or the instructor are required to quarantine or if the university moves courses online, the course may need to continue in a virtual format. Communication about how the course will proceed will be available through D2l.
-
-#### Virtual Attendance
-
-Due to the ongoing pandemic and issues stemming from this, a synchronous virtual attendance option will be permitted for this course. The Microsoft Teams platform will be used for this virtual option. When attending virtually, if at all possible, please plan to have your video camera turned on.
 
 
 ### Approximate Course Outline
 
 1. Course Intro & Preliminaries:
   - R
-  - Git
   - Plotting spatial data
-  - Linear Models
-  - Stan / Bayesian Inference
-2. Gaussian Processes in 1D
+  - Linear Models and Bayesian Inference
+2. Point Process Data
 3. Point Referenced Data
 4. Areal Data
-5. Point Process Data (and potentially animal movement models)
 
 ## Course Schedule
 
 
-#### Week One: Introduction: Git, R Studio, and Spatial Data Visualization
+#### Week One: Introduction:R Studio, and Spatial Data Visualization
 
 ###### Weekly Resources:
 
 Virtual Materials:
   - [Leaflet Overview](https://rstudio.github.io/leaflet/)
-  - [Happy Git with R, Ch.1](https://happygitwithr.com/big-picture.html)
+  
 
 ###### Class Overview:
 
 - Tuesday January 14: Course Overview and Class Conversation
 
-- Thursday January 16: Intro to R Studio, Git, and Leaflet. _(Interactive Demo)_
-    - [Git Demo Slides](https://stat505.github.io/GitDemo/)
+- Thursday January 16: Intro to R Studio and Leaflet. _(Interactive Demo)_
     - [Leaflet Demo](https://stat534.github.io/DataViz/) ([Download Repo](https://classroom.github.com/a/vIyJnLok))
 
 ---
 
+<!---
 #### Week Two: Linear Models and Bayesian Inference
 
 ##### Weekly Materials
@@ -406,3 +372,4 @@ Virtual Materials:
 - Tuesday May 6, 10 - 11:50 Final Exam
 
 ---
+-->
