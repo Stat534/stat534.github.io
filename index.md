@@ -20,7 +20,7 @@ At the end of the course students will understand
 
 ## Course Syllabus
 
-A downloadable PDF of the course syllabus is available: [Download PDF Syllabus](https://github.com/Stat534/syllabus/raw/main/syllabus_2021.pdf)
+A downloadable PDF of the course syllabus is available: [Download PDF Syllabus](https://github.com/Stat534/syllabus/blob/main/STAT534.pdf)
 
 
 ## Prerequisites
@@ -32,6 +32,12 @@ A downloadable PDF of the course syllabus is available: [Download PDF Syllabus](
 
 - Hierarchical Modeling and Analysis for Spatial Data, Second Edition, by Bannerjee, Carlin, and Gelfand. While the second edition is preferred, the first edition will suffice.
 - Animal Movement: Statistical Models for Telemetry Data, by Hooten, Johnson, McClintock, and Morales. _Optional_
+
+## Office Hours
+
+- Tuesday 8:30 - 9:15
+- Tuesday 12:30 - 2
+- Thursday 8:30 - 9:15
 
 ## Additional Resources
 Analysis and data visualization will be implemented with R
