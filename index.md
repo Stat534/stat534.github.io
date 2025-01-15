@@ -90,8 +90,7 @@ Virtual Materials:
 
 - Tuesday January 14: Course Overview and Class Conversation
 
-- Thursday January 16: Intro to R Studio and Leaflet. _(Interactive Demo)_
-    - [Leaflet Demo](https://stat534.github.io/DataViz/) ([Download Repo](https://classroom.github.com/a/vIyJnLok))
+- Tuesday January 16: R Mapping Demo [QMD Source Code](https://raw.githubusercontent.com/Stat534/MappingDemo/refs/heads/main/MappingDemo.qmd)
 
 ---
 
@@ -104,6 +103,8 @@ Virtual Materials:
 - Weekly Notes: [PDF](https://github.com/Stat534/CourseIntro/blob/main/LM.pdf) ([RMD Source](https://raw.githubusercontent.com/Stat534/CourseIntro/main/LM.Rmd))
 
 ###### Class Overview:
+- Thursday January 16: Intro to R Studio and Leaflet. _(Interactive Demo)_
+    - [Leaflet Demo](https://stat534.github.io/DataViz/) ([Download Repo](https://classroom.github.com/a/vIyJnLok))
 
 - Tuesday January 21: Linear Models Overview
 
