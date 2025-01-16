@@ -1,3 +1,22 @@
+## Course Schedule
+
+
+#### Week One: Introduction:R Studio, and Spatial Data Visualization
+
+###### Weekly Resources:
+
+Virtual Materials:
+  - [Leaflet Overview](https://rstudio.github.io/leaflet/)
+  
+
+###### Class Overview:
+
+- Tuesday January 14: Course Overview and Class Conversation
+
+- Tuesday January 16: R Mapping Demo [QMD Source Code](https://raw.githubusercontent.com/Stat534/MappingDemo/refs/heads/main/MappingDemo.qmd)
+
+---
+
 #### Course Description
 
 Statistical methods of spatial data analysis, stationary and nonstationary random fields, covariance structures, geostatistical models and analysis, spatial point process models and analysis, spatial lattice models and analysis. An emphasis will be placed on:
@@ -75,24 +94,7 @@ Federal law mandates the provision of services at the university-level to qualif
 3. Point Referenced Data
 4. Areal Data
 
-## Course Schedule
 
-
-#### Week One: Introduction:R Studio, and Spatial Data Visualization
-
-###### Weekly Resources:
-
-Virtual Materials:
-  - [Leaflet Overview](https://rstudio.github.io/leaflet/)
-  
-
-###### Class Overview:
-
-- Tuesday January 14: Course Overview and Class Conversation
-
-- Tuesday January 16: R Mapping Demo [QMD Source Code](https://raw.githubusercontent.com/Stat534/MappingDemo/refs/heads/main/MappingDemo.qmd)
-
----
 
 <!---
 #### Week Two: Linear Models and Bayesian Inference
