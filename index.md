@@ -17,6 +17,22 @@ Virtual Materials:
 
 ---
 
+#### Week Two: Spatial Data Visualization and Point Process Intro
+
+###### Weekly Resources:
+
+Virtual Materials:
+  - [Leaflet Overview](https://rstudio.github.io/leaflet/)
+  
+
+###### Class Overview:
+
+- Tuesday January 21: R Mapping Demo: Part II [QMD Source Code](https://raw.githubusercontent.com/Stat534/MappingDemo/refs/heads/main/MappingDemo.qmd)
+
+- Tuesday January 23: Point Process Intro
+
+---
+
 #### Course Description
 
 Statistical methods of spatial data analysis, stationary and nonstationary random fields, covariance structures, geostatistical models and analysis, spatial point process models and analysis, spatial lattice models and analysis. An emphasis will be placed on:
