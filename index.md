@@ -33,6 +33,7 @@ HW 1
 ###### Class Overview:
 
 - Tuesday January 21: R Mapping Demo: Part II [QMD Source Code](https://raw.githubusercontent.com/Stat534/MappingDemo/refs/heads/main/MappingDemo.qmd)
+- [R Mapping Demo Key](https://raw.githubusercontent.com/Stat534/MappingDemo/refs/heads/main/MappingDemo_Key_github.qmd)
 
 - Tuesday January 23: Project & Distances + Point Process Intro
 
