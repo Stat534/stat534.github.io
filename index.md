@@ -17,19 +17,24 @@ Virtual Materials:
 
 ---
 
-#### Week Two: Spatial Data Visualization and Point Process Intro
+#### Week Two: Spatial Data Visualization, Projections & Distances, Point Process Intro
 
 ###### Weekly Resources:
 
 Virtual Materials:
-  - [Leaflet Overview](https://rstudio.github.io/leaflet/)
+  - [ggmap](https://cran.r-project.org/web/packages/ggmap/readme/README.html)
+
+Reading:
+  - Chapter 1
+
+HW 1
   
 
 ###### Class Overview:
 
 - Tuesday January 21: R Mapping Demo: Part II [QMD Source Code](https://raw.githubusercontent.com/Stat534/MappingDemo/refs/heads/main/MappingDemo.qmd)
 
-- Tuesday January 23: Point Process Intro
+- Tuesday January 23: Project & Distances + Point Process Intro
 
 ---
 
