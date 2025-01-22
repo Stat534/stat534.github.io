@@ -37,6 +37,9 @@ Reading:
 
 - Thursday January 23: Project & Distances + Point Process Intro
   - [Projection and Distance: PDF](https://github.com/Stat534/Lectures/blob/main/Distance_Projections.pdf) ([RMD Source](https://raw.githubusercontent.com/Stat534/Lectures/refs/heads/main/Distance_Projections.Rmd))
+  - [Point Process Intro: PDF](https://github.com/Stat534/Lectures/blob/main/PP_Intro.pdf) ([RMD Source](https://raw.githubusercontent.com/Stat534/Lectures/refs/heads/main/PP_Intro.Rmd))
+ 
+    
 ---
 
 #### Course Description
