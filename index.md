@@ -27,7 +27,7 @@ Virtual Materials:
 Reading:
   - Chapter 1
 
-HW 1
+[HW 1: Due Thursday January 30](https://github.com/Stat534/HW/blob/main/HW1.md) ([Quarto Source Code](https://raw.githubusercontent.com/Stat534/HW/refs/heads/main/HW1.qmd))
   
 
 ###### Class Overview:
