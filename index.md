@@ -36,8 +36,30 @@ Reading:
   - [R Mapping Demo Key](https://raw.githubusercontent.com/Stat534/MappingDemo/refs/heads/main/MappingDemo_Key_github.qmd)
 
 - Thursday January 23: Project & Distances + Point Process Intro
-  - [Projection and Distance: PDF](https://github.com/Stat534/Lectures/blob/main/Distance_Projections.pdf) ([RMD Source](https://raw.githubusercontent.com/Stat534/Lectures/refs/heads/main/Distance_Projections.Rmd))
+  - [Projection and Distance: PDF](https://github.com/Stat534/Lectures/blob/main/Distance_Projections.pdf) ([RMD Source](https://raw.githubusercontent.com/Stat534/Lectures/refs/heads/main/Distance_Projections.Rmd)) ([Key](https://github.com/Stat534/Lectures/blob/main/Distance_Projections_key.pdf))
   - [Point Process Intro: PDF](https://github.com/Stat534/Lectures/blob/main/PP_Intro.pdf) ([RMD Source](https://raw.githubusercontent.com/Stat534/Lectures/refs/heads/main/PP_Intro.Rmd))
+ 
+    
+---
+
+#### Week Three: Point Process Testing
+
+###### Weekly Resources:
+
+
+Reading:
+
+HW 2: Due Thursday February 6
+  
+
+###### Class Overview:
+
+- Tuesday January 28: Point Process Tests
+  - Continue PP Intro
+  - [PP Hypotheses: PDF](https://github.com/Stat534/Lectures/blob/main/PP_Hyp.pdf) ([RMD Source Code](https://raw.githubusercontent.com/Stat534/Lectures/refs/heads/main/PP_Hyp.Rmd))
+  
+- Thursday January 30:
+  - k functions  
  
     
 ---
