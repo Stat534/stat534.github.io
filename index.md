@@ -49,7 +49,7 @@ Reading:
 
 Reading:
 
-HW 2: Due Thursday February 6
+[HW 2: Due Thursday February 6](https://github.com/Stat534/HW/blob/main/HW2.md) ([QMD Source](https://raw.githubusercontent.com/Stat534/HW/refs/heads/main/HW2.qmd))
   
 
 ###### Class Overview:
