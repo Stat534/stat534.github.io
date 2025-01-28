@@ -55,11 +55,11 @@ HW 2: Due Thursday February 6
 ###### Class Overview:
 
 - Tuesday January 28: Point Process Tests
-  - Continue PP Intro
-  - [PP Hypotheses: PDF](https://github.com/Stat534/Lectures/blob/main/PP_Hyp.pdf) ([RMD Source Code](https://raw.githubusercontent.com/Stat534/Lectures/refs/heads/main/PP_Hyp.Rmd))
+  - Continue PP Intro ([Key](https://github.com/Stat534/Lectures/blob/main/PP_Intro_Key.pdf))
+    
   
 - Thursday January 30:
-  - k functions  
+  - [PP Hypotheses: PDF](https://github.com/Stat534/Lectures/blob/main/PP_Hyp.pdf) ([RMD Source Code](https://raw.githubusercontent.com/Stat534/Lectures/refs/heads/main/PP_Hyp.Rmd))
  
     
 ---
