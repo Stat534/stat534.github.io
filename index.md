@@ -65,16 +65,18 @@ Reading:
 
 ###### Weekly Resources:
 
-HW 3: Due Thursday February 6
+HW 3: Due Thursday February 13
   
 
 ###### Class Overview:
 
 - Tuesday February 4: 
   - [Ripley's K function: PDF](https://github.com/Stat534/Lectures/blob/main/ripleysk.pdf) ([RMD Source Code](https://raw.githubusercontent.com/Stat534/Lectures/refs/heads/main/ripleysk.Rmd))
+  - [Modeling NHPP: PDF](https://github.com/Stat534/Lectures/blob/main/NHPP.pdf) ([RMD Source Code](https://raw.githubusercontent.com/Stat534/Lectures/refs/heads/main/NHPP.Rmd))
     
   
 - Thursday February 6:
+  - Spatstat Demo   
  
     
 ---
