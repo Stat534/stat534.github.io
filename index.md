@@ -46,9 +46,6 @@ Reading:
 
 ###### Weekly Resources:
 
-
-Reading:
-
 [HW 2: Due Thursday February 6](https://github.com/Stat534/HW/blob/main/HW2.md) ([QMD Source](https://raw.githubusercontent.com/Stat534/HW/refs/heads/main/HW2.qmd))
   
 
@@ -59,7 +56,25 @@ Reading:
     
   
 - Thursday January 30:
-  - [PP Hypotheses: PDF](https://github.com/Stat534/Lectures/blob/main/PP_Hyp.pdf) ([RMD Source Code](https://raw.githubusercontent.com/Stat534/Lectures/refs/heads/main/PP_Hyp.Rmd))
+  - [PP Hypotheses: PDF](https://github.com/Stat534/Lectures/blob/main/PP_Hyp.pdf) ([RMD Source Code](https://raw.githubusercontent.com/Stat534/Lectures/refs/heads/main/PP_Hyp.Rmd)) ([Key](https://github.com/Stat534/Lectures/blob/main/PP_Hyp_key.pdf))
+ 
+    
+---
+
+#### Week Four: Point Process Modeling
+
+###### Weekly Resources:
+
+HW 3: Due Thursday February 6
+  
+
+###### Class Overview:
+
+- Tuesday February 4: 
+  - [Ripley's K function: PDF](https://github.com/Stat534/Lectures/blob/main/ripleysk.pdf) ([RMD Source Code](https://raw.githubusercontent.com/Stat534/Lectures/refs/heads/main/ripleysk.Rmd))
+    
+  
+- Thursday February 6:
  
     
 ---
