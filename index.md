@@ -76,7 +76,7 @@ HW 3: Due Thursday February 13
     
   
 - Thursday February 6:
-  - Spatstat Demo   
+  - [Spatstat Demo](https://github.com/Stat534/spatstat_demo/blob/main/SpatStat.md) ([Quarto Source Code](https://raw.githubusercontent.com/Stat534/spatstat_demo/refs/heads/main/SpatStat.qmd))
  
     
 ---
