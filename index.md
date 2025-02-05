@@ -71,8 +71,8 @@ HW 3: Due Thursday February 13
 ###### Class Overview:
 
 - Tuesday February 4: 
-  - [Ripley's K function: PDF](https://github.com/Stat534/Lectures/blob/main/ripleysk.pdf) ([RMD Source Code](https://raw.githubusercontent.com/Stat534/Lectures/refs/heads/main/ripleysk.Rmd))
-  - [Modeling NHPP: PDF](https://github.com/Stat534/Lectures/blob/main/NHPP.pdf) ([RMD Source Code](https://raw.githubusercontent.com/Stat534/Lectures/refs/heads/main/NHPP.Rmd))
+  - [Ripley's K function: PDF](https://github.com/Stat534/Lectures/blob/main/ripleysk.pdf) ([RMD Source Code](https://raw.githubusercontent.com/Stat534/Lectures/refs/heads/main/ripleysk.Rmd)) ([key](https://github.com/Stat534/Lectures/blob/main/ripleysk_key.pdf))
+  - [Modeling NHPP: PDF](https://github.com/Stat534/Lectures/blob/main/NHPP.pdf) ([RMD Source Code](https://raw.githubusercontent.com/Stat534/Lectures/refs/heads/main/NHPP.Rmd)) ([key](https://github.com/Stat534/Lectures/blob/main/NHPP_key.pdf))
     
   
 - Thursday February 6:
