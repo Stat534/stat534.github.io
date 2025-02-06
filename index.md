@@ -65,7 +65,7 @@ Reading:
 
 ###### Weekly Resources:
 
-HW 3: Due Thursday February 13
+[HW 3: Due Thursday February 13](https://github.com/Stat534/HW/blob/main/HW3.pdf) ([QMD Source](https://raw.githubusercontent.com/Stat534/HW/refs/heads/main/HW3.qmd))
   
 
 ###### Class Overview:
