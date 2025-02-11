@@ -83,13 +83,12 @@ Reading:
 
 #### Week Five: Google Earth Engine
 
-###### Weekly Resources:
-
 
 ###### Class Overview:
 
 - Tuesday February 11:
--   NO CLASS! Google Earth Engine Demo to be posted soon.
+-   NO CLASS!
+- Explore the [Google Earth Engine Demo](https://github.com/Stat534/GEE/blob/main/GEE_Demo.md) ([QMD Source Code](https://raw.githubusercontent.com/Stat534/GEE/refs/heads/main/GEE_Demo.qmd))
 
  
 ---
