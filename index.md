@@ -81,6 +81,18 @@ Reading:
     
 ---
 
+#### Week Five: Google Earth Engine
+
+###### Weekly Resources:
+
+
+###### Class Overview:
+
+- Tuesday February 11:
+-   NO CLASS! Google Earth Engine Demo to be posted soon.
+
+ 
+---
 #### Course Description
 
 Statistical methods of spatial data analysis, stationary and nonstationary random fields, covariance structures, geostatistical models and analysis, spatial point process models and analysis, spatial lattice models and analysis. An emphasis will be placed on:
