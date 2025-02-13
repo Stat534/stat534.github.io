@@ -83,14 +83,17 @@ Reading:
 
 #### Week Five: Google Earth Engine
 
+HW 4: Due Thursday February 20
 
 ###### Class Overview:
 
 - Tuesday February 11:
--   NO CLASS!
-- Explore the [Google Earth Engine Demo](https://github.com/Stat534/GEE/blob/main/GEE_Demo.md) ([QMD Source Code](https://raw.githubusercontent.com/Stat534/GEE/refs/heads/main/GEE_Demo.qmd))
+  - NO CLASS!
+  - Explore the [Google Earth Engine Demo](https://github.com/Stat534/GEE/blob/main/GEE_Demo.md) ([QMD Source Code](https://raw.githubusercontent.com/Stat534/GEE/refs/heads/main/GEE_Demo.qmd))
 
- 
+- Thursday February 13:
+  - [Google Earth Engine Demo 2](https://github.com/Stat534/GEE/blob/main/GEE_Demo2.pdf) ([QMD Source Code](https://raw.githubusercontent.com/Stat534/GEE/refs/heads/main/GEE_Demo2.qmd))
+       
 ---
 #### Course Description
 
