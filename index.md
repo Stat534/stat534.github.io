@@ -83,7 +83,7 @@ Reading:
 
 #### Week Five: Google Earth Engine
 
-HW 4: Due Thursday February 20
+[HW 4: Due Thursday February 20](https://github.com/Stat534/HW/blob/main/HW4.pdf) ([QMD Source](https://raw.githubusercontent.com/Stat534/HW/refs/heads/main/HW4.qmd))
 
 ###### Class Overview:
 
@@ -95,6 +95,21 @@ HW 4: Due Thursday February 20
   - [Google Earth Engine Demo 2](https://github.com/Stat534/GEE/blob/main/GEE_Demo2.pdf) ([QMD Source Code](https://raw.githubusercontent.com/Stat534/GEE/refs/heads/main/GEE_Demo2.qmd))
        
 ---
+
+#### Week Six: Review & Exam Week
+
+
+###### Class Overview:
+
+- Tuesday February 18:
+  - Class Review
+
+- Thursday February 20:
+  - In Class Exam I
+  - Take Home Exam Assigned
+       
+---
+
 #### Course Description
 
 Statistical methods of spatial data analysis, stationary and nonstationary random fields, covariance structures, geostatistical models and analysis, spatial point process models and analysis, spatial lattice models and analysis. An emphasis will be placed on:
