@@ -106,7 +106,7 @@ Reading:
 
 - Thursday February 20:
   - In Class Exam I
-  - Take Home Exam Assigned
+  - [Take Home Exam Assigned](https://github.com/Stat534/Exam/blob/main/Exam1_Takehome.pdf) ([Quarto Source Code](https://raw.githubusercontent.com/Stat534/Exam/refs/heads/main/Exam1_Takehome.qmd)) (Due Thursday February 17 at 10:50 AM. Turn in to gradescope.)
        
 ---
 
