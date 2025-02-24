@@ -110,6 +110,154 @@ Reading:
        
 ---
 
+#### Week Seven: Linear Algebra and Conditional Multivariate Normal
+
+##### Weekly Materials
+
+
+- Virtual Materials: 
+
+- Weekly Notes: 
+
+###### Class Overview:
+
+- Tuesday February 25: [Linear Algebra Recap & Mathematical exploration of Multivariate Normal Distribution: PDF](https://github.com/Stat534/GP/blob/main/LinearAlgebraFoundations.pdf) ([RMD Source](https://github.com/Stat534/GP/blob/main/LinearAlgebraFoundations.Rmd))
+
+- Thursday February 27: Correlated Normal Demo _(Interactive Demo)_ [Conditional Normal Demo]( https://stat534.github.io/conditionalnormal_demo/) ([Download Repo](https://classroom.github.com/a/IbT2Azly))
+
+
+---
+
+#### Week Eight: Bayesian Analysis with Stan & Gaussian Processes
+
+- Virtual Materials: [R Stan Installation Guidelines](https://github.com/stan-dev/rstan/wiki/RStan-Getting-Started)
+
+- Suggested Reading: [Gramacy: Surrogates Ch 5.1](https://bookdown.org/rbg/surrogates/chap5.html#chap5gpprior)
+
+
+- Weekly Notes: [PDF](https://github.com/Stat534/Bayes_Stan/blob/main/Bayes_Stan.pdf) ([RMD Source](https://github.com/Stat534/Bayes_Stan/blob/main/Bayes_Stan.Rmd))
+
+###### Class Overview:
+
+- Tuesday March 4: Bayes Theorem + Bayesian overview
+
+- Thursday March 6: Visual Overview of Bayesian Analysis & Stan Demo  _(Interactive Demo)_ ([Stan Demo](https://stat534.github.io/stan_demo/)) ([Download Repo](https://classroom.github.com/a/bfUddJmO))
+
+---
+
+#### Week Nine: Spatial Statistics Fundamentals
+
+##### Weekly Materials
+
+- Suggested Reading:  HMASD Ch.2 Basics of Point Referenced Models
+
+- Weekly Notes:  
+  - [Spatial Notation and Variograms(PDF)](https://github.com/Stat534/SpatialNotation/blob/main/Notation.pdf) ([RMD Source](https://raw.githubusercontent.com/Stat534/SpatialNotation/main/Notation.Rmd))
+  - [Spatial EDA: Lecture (PDF)](https://github.com/Stat534/Spatial_EDA/blob/main/SpatialEDA.pdf) ([RMD Source](https://raw.githubusercontent.com/Stat534/Spatial_EDA/main/SpatialEDA.Rmd))
+
+###### Class Overview:
+
+- Tuesday March 11: Stationarity and Variograms
+
+
+- Thursday March 13: Fitting variograms and covariance functions & Spatial EDA: Lecture
+
+---
+
+#### Week X: Spring Break
+
+##### Weekly Materials
+
+
+###### Class Overview:
+
+- Tuesday March 18: No Class
+- Thursday March 20: No Class
+
+---
+
+#### Week Ten: 
+
+##### Weekly Materials
+
+
+###### Class Overview:
+
+- Tuesday March 25
+- Thursday March 27
+
+---
+
+#### Week Eleven: 
+
+##### Weekly Materials
+
+
+###### Class Overview:
+
+- Tuesday April 1
+- Thursday April 3
+
+---
+
+#### Week Twelve: 
+
+##### Weekly Materials
+
+
+###### Class Overview:
+
+- Tuesday April 8
+- Thursday April 10
+
+---
+
+#### Week Thirteen: 
+
+##### Weekly Materials
+
+
+###### Class Overview:
+
+- Tuesday April 15
+- Thursday April 17
+
+---
+
+#### Week Fourteen: 
+
+##### Weekly Materials
+
+
+###### Class Overview:
+
+- Tuesday April 22
+- Thursday April 24
+
+---
+
+#### Week Fifteen: 
+
+##### Weekly Materials
+
+
+###### Class Overview:
+
+- Tuesday April 29
+- Thursday May 1
+
+---
+
+#### Week Sixteen: Exam III - Areal Data
+
+
+###### Class Overview:
+
+- Exam III: Tuesday May 6	10:00am - 11:50am
+
+---
+
+---
 #### Course Description
 
 Statistical methods of spatial data analysis, stationary and nonstationary random fields, covariance structures, geostatistical models and analysis, spatial point process models and analysis, spatial lattice models and analysis. An emphasis will be placed on:
