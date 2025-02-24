@@ -121,9 +121,9 @@ Reading:
 
 ###### Class Overview:
 
-- Tuesday February 25: [Linear Algebra Recap & Mathematical exploration of Multivariate Normal Distribution: PDF](https://github.com/Stat534/GP/blob/main/LinearAlgebraFoundations.pdf) ([RMD Source](https://github.com/Stat534/GP/blob/main/LinearAlgebraFoundations.Rmd))
+- Tuesday February 25: [Week 7 Activity: Linear Algebra & Linear Modeling: PDF](https://github.com/Stat534/Activity/blob/main/Activity7.pdf) ([Qmd Source](https://raw.githubusercontent.com/Stat534/Activity/refs/heads/main/Activity7.qmd))
 
-- Thursday February 27: Correlated Normal Demo _(Interactive Demo)_ [Conditional Normal Demo]( https://stat534.github.io/conditionalnormal_demo/) ([Download Repo](https://classroom.github.com/a/IbT2Azly))
+- Thursday February 27: 
 
 
 ---
@@ -139,9 +139,8 @@ Reading:
 
 ###### Class Overview:
 
-- Tuesday March 4: Bayes Theorem + Bayesian overview
-
-- Thursday March 6: Visual Overview of Bayesian Analysis & Stan Demo  _(Interactive Demo)_ ([Stan Demo](https://stat534.github.io/stan_demo/)) ([Download Repo](https://classroom.github.com/a/bfUddJmO))
+- Tuesday March 4: 
+- Thursday March 6: 
 
 ---
 
@@ -152,15 +151,13 @@ Reading:
 - Suggested Reading:  HMASD Ch.2 Basics of Point Referenced Models
 
 - Weekly Notes:  
-  - [Spatial Notation and Variograms(PDF)](https://github.com/Stat534/SpatialNotation/blob/main/Notation.pdf) ([RMD Source](https://raw.githubusercontent.com/Stat534/SpatialNotation/main/Notation.Rmd))
-  - [Spatial EDA: Lecture (PDF)](https://github.com/Stat534/Spatial_EDA/blob/main/SpatialEDA.pdf) ([RMD Source](https://raw.githubusercontent.com/Stat534/Spatial_EDA/main/SpatialEDA.Rmd))
 
 ###### Class Overview:
 
-- Tuesday March 11: Stationarity and Variograms
+- Tuesday March 11: 
 
 
-- Thursday March 13: Fitting variograms and covariance functions & Spatial EDA: Lecture
+- Thursday March 13: 
 
 ---
 
