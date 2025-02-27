@@ -130,16 +130,18 @@ Reading:
 
 #### Week Eight: Bayesian Analysis with Stan & Gaussian Processes
 
+- Video Lectures: [Rstan installation video: ~11 minutes ](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=21791b3b-2943-405d-8e5d-b29101720e85) ([MD Script](https://github.com/Stat534/VideoScripts/blob/main/Stan.md)) ([Quarto Source](https://raw.githubusercontent.com/Stat534/VideoScripts/refs/heads/main/Stan.qmd)) ([Stan Script: Regression.stan](https://raw.githubusercontent.com/Stat534/VideoScripts/refs/heads/main/regression.stan))
+
 - Virtual Materials: [R Stan Installation Guidelines](https://github.com/stan-dev/rstan/wiki/RStan-Getting-Started)
 
 - Suggested Reading: [Gramacy: Surrogates Ch 5.1](https://bookdown.org/rbg/surrogates/chap5.html#chap5gpprior)
 
 
-- Weekly Notes: [PDF](https://github.com/Stat534/Bayes_Stan/blob/main/Bayes_Stan.pdf) ([RMD Source](https://github.com/Stat534/Bayes_Stan/blob/main/Bayes_Stan.Rmd))
+
 
 ###### Class Overview:
 
-- Tuesday March 4: 
+- Tuesday March 4: Week 8 Activity
 - Thursday March 6: 
 
 ---
