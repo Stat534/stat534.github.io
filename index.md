@@ -115,9 +115,6 @@ Reading:
 ##### Weekly Materials
 
 
-- Virtual Materials: 
-
-- Weekly Notes: 
 
 ###### Class Overview:
 
@@ -131,6 +128,9 @@ Reading:
 #### Week Eight: Bayesian Analysis with Stan & Gaussian Processes
 
 - Video Lectures: [Rstan installation video: ~11 minutes ](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=21791b3b-2943-405d-8e5d-b29101720e85) ([MD Script](https://github.com/Stat534/VideoScripts/blob/main/Stan.md)) ([Quarto Source](https://raw.githubusercontent.com/Stat534/VideoScripts/refs/heads/main/Stan.qmd)) ([Stan Script: Regression.stan](https://raw.githubusercontent.com/Stat534/VideoScripts/refs/heads/main/regression.stan))
+
+- [HW 5: Due Thursday March 6](https://github.com/Stat534/HW/blob/main/HW5.pdf) ([QMD Source](https://raw.githubusercontent.com/Stat534/HW/refs/heads/main/HW5.qmd))
+
 
 - Virtual Materials: [R Stan Installation Guidelines](https://github.com/stan-dev/rstan/wiki/RStan-Getting-Started)
 
