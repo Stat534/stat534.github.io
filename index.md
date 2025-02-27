@@ -123,7 +123,7 @@ Reading:
 
 - Tuesday February 25: [Week 7 Activity: Linear Algebra & Linear Modeling: PDF](https://github.com/Stat534/Activity/blob/main/Activity7.pdf) ([Qmd Source](https://raw.githubusercontent.com/Stat534/Activity/refs/heads/main/Activity7.qmd)) ([Key: QMD](https://github.com/Stat534/Activity/blob/main/Activity7_key.qmd)) ([Key: PDF](https://github.com/Stat534/Activity/blob/main/Activity7_key.pdf))
 
-- Thursday February 27: 
+- Thursday February 27: [Week 7 Activity 2](https://github.com/Stat534/Activity/blob/main/Activity7b.pdf) ([QMD Source Code](https://raw.githubusercontent.com/Stat534/Activity/refs/heads/main/Activity7b.qmd))
 
 
 ---
