@@ -163,9 +163,7 @@ Reading:
 
 ---
 
-#### Week X: Spring Break
-
-##### Weekly Materials
+#### Week Ten: Spring Break
 
 
 ###### Class Overview:
@@ -175,7 +173,7 @@ Reading:
 
 ---
 
-#### Week Ten: 
+#### Week Eleven: 
 
 ##### Weekly Materials
 
@@ -187,7 +185,7 @@ Reading:
 
 ---
 
-#### Week Eleven: 
+#### Week Twelve: 
 
 ##### Weekly Materials
 
@@ -199,7 +197,7 @@ Reading:
 
 ---
 
-#### Week Twelve: 
+#### Week Thirteen: 
 
 ##### Weekly Materials
 
@@ -211,7 +209,7 @@ Reading:
 
 ---
 
-#### Week Thirteen: 
+#### Week Fourteen: 
 
 ##### Weekly Materials
 
@@ -223,7 +221,7 @@ Reading:
 
 ---
 
-#### Week Fourteen: 
+#### Week Fifteen: 
 
 ##### Weekly Materials
 
@@ -235,7 +233,7 @@ Reading:
 
 ---
 
-#### Week Fifteen: 
+#### Week Sixteen: 
 
 ##### Weekly Materials
 
@@ -247,7 +245,7 @@ Reading:
 
 ---
 
-#### Week Sixteen: Exam III - Areal Data
+#### Week Seventeen: Exam III - Areal Data
 
 
 ###### Class Overview:
