@@ -142,7 +142,7 @@ Reading:
 ###### Class Overview:
 
 - Tuesday March 4: [Week 8 Activity](https://github.com/Stat534/Activity/blob/main/Activity8.pdf) ([Quarto Source Code](https://raw.githubusercontent.com/Stat534/Activity/refs/heads/main/Activity8.qmd))
-- Thursday March 6: 
+- Thursday March 6: Week 8 Activity continued
 
 ---
 
@@ -156,7 +156,7 @@ Reading:
 
 ###### Class Overview:
 
-- Tuesday March 11: 
+- Tuesday March 11: [Week 9 Activity](https://github.com/Stat534/Activity/blob/main/Activity9.md) ([QMD Source Code](https://raw.githubusercontent.com/Stat534/Activity/refs/heads/main/Activity9.qmd))
 
 
 - Thursday March 13: 
