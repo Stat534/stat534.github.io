@@ -177,6 +177,7 @@ Reading:
 
 ##### Weekly Materials
 
+- [HW 6](https://github.com/Stat534/HW/blob/main/HW6.pdf) ([Quarto Source Code](https://raw.githubusercontent.com/Stat534/HW/refs/heads/main/HW6.qmd)) (Due Thursday March 27)
 
 ###### Class Overview:
 
