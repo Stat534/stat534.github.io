@@ -182,7 +182,7 @@ Reading:
 ###### Class Overview:
 
 - Tuesday March 25 [Week 10 Activity](https://github.com/Stat534/Activity/blob/main/Activity10.md) ([QMD Source Code](https://raw.githubusercontent.com/Stat534/Activity/refs/heads/main/Activity10.qmd))
-- Thursday March 27
+- Thursday March 27 [Week 10 Activity b](https://github.com/Stat534/Activity/blob/main/Activity10b.pdf) ([QMD Source Code](https://raw.githubusercontent.com/Stat534/Activity/refs/heads/main/Activity10b.qmd))
 
 ---
 
