@@ -120,7 +120,7 @@ Reading:
 
 - Tuesday February 25: [Week 7 Activity: Linear Algebra & Linear Modeling: PDF](https://github.com/Stat534/Activity/blob/main/Activity7.pdf) ([Qmd Source](https://raw.githubusercontent.com/Stat534/Activity/refs/heads/main/Activity7.qmd)) ([Key: QMD](https://github.com/Stat534/Activity/blob/main/Activity7_key.qmd)) ([Key: PDF](https://github.com/Stat534/Activity/blob/main/Activity7_key.pdf))
 
-- Thursday February 27: [Week 7 Activity 2](https://github.com/Stat534/Activity/blob/main/Activity7b.pdf) ([QMD Source Code](https://raw.githubusercontent.com/Stat534/Activity/refs/heads/main/Activity7b.qmd))
+- Thursday February 27: [Week 7 Activity 2](https://github.com/Stat534/Activity/blob/main/Activity7b.pdf) ([QMD Source Code](https://raw.githubusercontent.com/Stat534/Activity/refs/heads/main/Activity7b.qmd)) ([Key: QMD](https://raw.githubusercontent.com/Stat534/Activity/refs/heads/main/Activity7_key.qmd)) ([Key: PDF](https://github.com/Stat534/Activity/blob/main/Activity7_key.pdf))
 
 
 ---
@@ -156,7 +156,7 @@ Reading:
 
 ###### Class Overview:
 
-- Tuesday March 11: [Week 9 Activity](https://github.com/Stat534/Activity/blob/main/Activity9.md) ([QMD Source Code](https://raw.githubusercontent.com/Stat534/Activity/refs/heads/main/Activity9.qmd))
+- Tuesday March 11: [Week 9 Activity](https://github.com/Stat534/Activity/blob/main/Activity9.md) ([QMD Source Code](https://raw.githubusercontent.com/Stat534/Activity/refs/heads/main/Activity9.qmd)) ([Key: QMD](https://raw.githubusercontent.com/Stat534/Activity/refs/heads/main/Activity9_key.qmd) ([Key: MD](https://github.com/Stat534/Activity/blob/main/Activity9_key.md)
 
 
 - Thursday March 13: 
@@ -181,8 +181,8 @@ Reading:
 
 ###### Class Overview:
 
-- Tuesday March 25 [Week 10 Activity](https://github.com/Stat534/Activity/blob/main/Activity10.md) ([QMD Source Code](https://raw.githubusercontent.com/Stat534/Activity/refs/heads/main/Activity10.qmd))
-- Thursday March 27 [Week 10 Activity b](https://github.com/Stat534/Activity/blob/main/Activity10b.pdf) ([QMD Source Code](https://raw.githubusercontent.com/Stat534/Activity/refs/heads/main/Activity10b.qmd))
+- Tuesday March 25 [Week 10 Activity](https://github.com/Stat534/Activity/blob/main/Activity10.md) ([QMD Source Code](https://raw.githubusercontent.com/Stat534/Activity/refs/heads/main/Activity10.qmd)) ([Key: QMD](https://raw.githubusercontent.com/Stat534/Activity/refs/heads/main/Activity10_key.qmd) ([Key: MD](https://github.com/Stat534/Activity/blob/main/Activity10_key.md))
+- Thursday March 27 [Week 10 Activity b](https://github.com/Stat534/Activity/blob/main/Activity10b.pdf) ([QMD Source Code](https://raw.githubusercontent.com/Stat534/Activity/refs/heads/main/Activity10b.qmd)) ([Key: QMD](https://raw.githubusercontent.com/Stat534/Activity/refs/heads/main/Activity10b_key.qmd)) ([Key: PDF](https://github.com/Stat534/Activity/blob/main/Activity10b_key.pdf))
 
 ---
 
@@ -195,8 +195,8 @@ Reading:
 
 ###### Class Overview:
 
-- Tuesday April 1 [Week 11 Activity](https://github.com/Stat534/Activity/blob/main/Activity11.md) ([Quarto Source Code](https://raw.githubusercontent.com/Stat534/Activity/refs/heads/main/Activity11.qmd))
-- Thursday April 3 [Week 11 Activity b](https://github.com/Stat534/Activity/blob/main/Activity11b.pdf) ([Quarto Source Code](https://raw.githubusercontent.com/Stat534/Activity/refs/heads/main/Activity11b.qmd))
+- Tuesday April 1 [Week 11 Activity](https://github.com/Stat534/Activity/blob/main/Activity11.md) ([Quarto Source Code](https://raw.githubusercontent.com/Stat534/Activity/refs/heads/main/Activity11.qmd)) ([Key: QMD](https://raw.githubusercontent.com/Stat534/Activity/refs/heads/main/Activity11_key.qmd) ([Key: MD](https://github.com/Stat534/Activity/blob/main/Activity11_key.md))
+- Thursday April 3 [Week 11 Activity b](https://github.com/Stat534/Activity/blob/main/Activity11b.pdf) ([Quarto Source Code](https://raw.githubusercontent.com/Stat534/Activity/refs/heads/main/Activity11b.qmd)) ([Key: QMD](https://raw.githubusercontent.com/Stat534/Activity/refs/heads/main/Activity11b_key.qmd)) ([Key: PDF](https://github.com/Stat534/Activity/blob/main/Activity11b_key.pdf))
 
 ---
 
@@ -220,7 +220,11 @@ Reading:
 ###### Class Overview:
 
 - Tuesday April 15
-- Thursday April 17
+  - Class Review
+  - Take Home Exam Assigned
+
+- Thursday February 20:
+  - In Class Exam II
 
 ---
 
@@ -232,6 +236,7 @@ Reading:
 ###### Class Overview:
 
 - Tuesday April 22
+  - Take Home Exam Due     
 - Thursday April 24
 
 ---
