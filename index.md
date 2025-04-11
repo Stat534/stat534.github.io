@@ -207,7 +207,7 @@ Reading:
 
 ###### Class Overview:
 
-- Tuesday April 8 [[Week 12 Activity](https://github.com/Stat534/Activity/blob/main/Activity13.pdf) ([Quarto Source Code](https://raw.githubusercontent.com/Stat534/Activity/refs/heads/main/Activity13.qmd))
+- Tuesday April 8 [[Week 12 Activity](https://github.com/Stat534/Activity/blob/main/Activity13.pdf) ([Quarto Source Code](https://raw.githubusercontent.com/Stat534/Activity/refs/heads/main/Activity13.qmd)) ([Key: QMD](https://raw.githubusercontent.com/Stat534/Activity/refs/heads/main/Activity13_key.qmd)) ([Key: PDF](https://github.com/Stat534/Activity/blob/main/Activity13_key.pdf))
 - Thursday April 10
 
 ---
