@@ -221,7 +221,7 @@ Reading:
 
 - Tuesday April 15
   - Class Review
-  - [Take Home Exam 2 Assigned](https://github.com/Stat534/Exam/blob/main/Exam2_Takehome.pdf) ([Quarto Source Code](https://raw.githubusercontent.com/Stat534/Exam/refs/heads/main/Exam2_Takehome.qmd)) (Due Tuesday February 22 at 10:50 AM. Turn in to gradescope.)
+  - [Take Home Exam 2 Assigned](https://github.com/Stat534/Exam/blob/main/Exam2_Takehome.pdf) ([Quarto Source Code](https://raw.githubusercontent.com/Stat534/Exam/refs/heads/main/Exam2_Takehome.qmd)) (Due Tuesday April 22 at 10:50 AM. Turn in to gradescope.)
 
 - Thursday February 20:
   - In Class Exam II
