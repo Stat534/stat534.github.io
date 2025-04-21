@@ -235,7 +235,7 @@ Reading:
 
 ###### Class Overview:
 
-- Tuesday April 22
+- Tuesday April 22: [[Week 15 Activity](https://github.com/Stat534/Activity/blob/main/Activity15.md) ([Quarto Source Code](https://raw.githubusercontent.com/Stat534/Activity/refs/heads/main/Activity15.qmd))
   - Take Home Exam Due     
 - Thursday April 24
 
