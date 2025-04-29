@@ -248,7 +248,7 @@ Reading:
 
 ###### Class Overview:
 
-- Tuesday April 29
+- Tuesday April 29: [Week 16 Activity](https://github.com/Stat534/Activity/blob/main/Activity16.pdf) ([Quarto Source Code](https://raw.githubusercontent.com/Stat534/Activity/refs/heads/main/Activity16.qmd))
 - Thursday May 1
 
 ---
