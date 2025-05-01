@@ -259,6 +259,7 @@ Reading:
 ###### Class Overview:
 
 - Exam III: Tuesday May 6	10:00am - 11:50am
+- Takehome Due Thursday May 8 at 12:00 ([PDF](https://github.com/Stat534/Exam/blob/main/Exam3_Takehome.pdf)) ([QMD](https://raw.githubusercontent.com/Stat534/Exam/refs/heads/main/Exam3_Takehome.qmd))
 
 ---
 
